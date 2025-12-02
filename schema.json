@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "required_columns": [
+    "campaign_name",
+    "creative_type",
+    "audience_type",
+    "platform",
+    "country",
+    "impressions",
+    "clicks",
+    "spend",
+    "revenue"
+  ]
+}

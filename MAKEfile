@@ -1,0 +1,14 @@
+.PHONY: install test run clean
+
+install:
+	python -m pip install --upgrade pip
+	pip install -r requirements.txt
+
+test:
+	pytest -q
+
+run:
+	python -m src.run
+
+clean:
+	rm -rf logs reports

@@ -1,0 +1,2854 @@
+{
+  "hypotheses": [
+    {
+      "id": "hyp_campaign_ctr_eed1be",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign '-omen-Studio Sports' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "-omen-Studio Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 282750
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 282750,
+        "mean_ctr": 0.009563218390804597,
+        "mean_roas": 29.485342456564034,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_201fff",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'M-n Bold Colors Drop' CTR 0.0076 vs baseline 0.0131 (-41.8%)",
+      "segment_filter": {
+        "campaign_name": "M-n Bold Colors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0076,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005465511111111112,
+        "ctr_pct_change": -41.832,
+        "impressions": 303822
+      },
+      "impact": "high",
+      "confidence": 0.5054655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 303822,
+        "mean_ctr": 0.007626175852966539,
+        "mean_roas": 0.7065712286744525,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_793306",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN  Signture  Soft' CTR 0.0055 vs baseline 0.0131 (-57.9%)",
+      "segment_filter": {
+        "campaign_name": "MEN  Signture  Soft"
+      },
+      "evidence": {
+        "ctr_current": 0.0055,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.007565511111111112,
+        "ctr_pct_change": -57.904,
+        "impressions": 285644
+      },
+      "impact": "high",
+      "confidence": 0.5075655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 285644,
+        "mean_ctr": 0.005513856408676535,
+        "mean_roas": 0.3251098570185809,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_dbf344",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN B LD COLORS DROP' CTR 0.0090 vs baseline 0.0131 (-31.1%)",
+      "segment_filter": {
+        "campaign_name": "MEN B LD COLORS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.009,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0040655111111111124,
+        "ctr_pct_change": -31.116,
+        "impressions": 42524
+      },
+      "impact": "high",
+      "confidence": 0.5040655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 42524,
+        "mean_ctr": 0.008959646317373718,
+        "mean_roas": 1.3963832416039537,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_a2affe",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN BLD COLORS DROP' CTR 0.0101 vs baseline 0.0131 (-22.7%)",
+      "segment_filter": {
+        "campaign_name": "MEN BLD COLORS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.0101,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002965511111111112,
+        "ctr_pct_change": -22.697,
+        "impressions": 40658
+      },
+      "impact": "high",
+      "confidence": 0.5029655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40658,
+        "mean_ctr": 0.010108711692655812,
+        "mean_roas": 0.401488035391112,
+        "confidence": 0.7,
+        "comment": "low_roas"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_01f44b",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN BOL COLORS DROP' CTR 0.0045 vs baseline 0.0131 (-65.6%)",
+      "segment_filter": {
+        "campaign_name": "MEN BOL COLORS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.0045,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.008565511111111111,
+        "ctr_pct_change": -65.558,
+        "impressions": 122505
+      },
+      "impact": "high",
+      "confidence": 0.5085655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 122505,
+        "mean_ctr": 0.004522264397371536,
+        "mean_roas": 0.5543044139246052,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_7c0f73",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN BOLD  OLORS DROP' CTR 0.0061 vs baseline 0.0131 (-53.3%)",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD  OLORS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.0061,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006965511111111111,
+        "ctr_pct_change": -53.312,
+        "impressions": 223404
+      },
+      "impact": "high",
+      "confidence": 0.5069655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 223404,
+        "mean_ctr": 0.006118959374048809,
+        "mean_roas": 0.40713089781242284,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9080ac",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN BOLD COL RS DROP' CTR 0.0054 vs baseline 0.0131 (-58.7%)",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD COL RS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.0054,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0076655111111111115,
+        "ctr_pct_change": -58.67,
+        "impressions": 166452
+      },
+      "impact": "high",
+      "confidence": 0.5076655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 166452,
+        "mean_ctr": 0.005382933217984764,
+        "mean_roas": 0.2771732504267252,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_72b491",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN BOLD COLORS DROP' CTR 0.0092 vs baseline 0.0131 (-29.6%)",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD COLORS DROP"
+      },
+      "evidence": {
+        "ctr_current": 0.009193442622950819,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0038720684881602928,
+        "ctr_pct_change": -29.636,
+        "impressions": 16229885
+      },
+      "impact": "high",
+      "confidence": 0.5038720684881602,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 16229885,
+        "mean_ctr": 0.00882704960632808,
+        "mean_roas": 1.675597601741394,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_3aba31",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN COMFORTMA LAUNCH' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "MEN COMFORTMA LAUNCH"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 43599
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 43599,
+        "mean_ctr": 0.009541503245487281,
+        "mean_roas": 0.22057604773622677,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_413875",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN PREMIUM MOD-L' CTR 0.0057 vs baseline 0.0131 (-56.4%)",
+      "segment_filter": {
+        "campaign_name": "MEN PREMIUM MOD-L"
+      },
+      "evidence": {
+        "ctr_current": 0.0057,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0073655111111111116,
+        "ctr_pct_change": -56.374,
+        "impressions": 67126
+      },
+      "impact": "high",
+      "confidence": 0.5073655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 67126,
+        "mean_ctr": 0.005705687810982332,
+        "mean_roas": 0.33835339863904884,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_bd4683",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'MEN Sinature Soft' CTR 0.0098 vs baseline 0.0131 (-25.0%)",
+      "segment_filter": {
+        "campaign_name": "MEN Sinature Soft"
+      },
+      "evidence": {
+        "ctr_current": 0.0098,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003265511111111112,
+        "ctr_pct_change": -24.993,
+        "impressions": 321405
+      },
+      "impact": "high",
+      "confidence": 0.5032655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 321405,
+        "mean_ctr": 0.009806941397924736,
+        "mean_roas": 1.8989499777834942,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_2cefc3",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Me   Premium  Modal' CTR 0.0061 vs baseline 0.0131 (-53.3%)",
+      "segment_filter": {
+        "campaign_name": "Me   Premium  Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0061,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006965511111111111,
+        "ctr_pct_change": -53.312,
+        "impressions": 403636
+      },
+      "impact": "high",
+      "confidence": 0.5069655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 403636,
+        "mean_ctr": 0.006079735206968655,
+        "mean_roas": 2.3341393611974106,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_5df258",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men  Bold  Colors  Drop' CTR 0.0098 vs baseline 0.0131 (-25.1%)",
+      "segment_filter": {
+        "campaign_name": "Men  Bold  Colors  Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.009786792452830187,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0032787186582809245,
+        "ctr_pct_change": -25.094,
+        "impressions": 14668981
+      },
+      "impact": "high",
+      "confidence": 0.5032787186582809,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 14668981,
+        "mean_ctr": 0.009500796272079158,
+        "mean_roas": 1.8462417267751494,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_7dd2af",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men  Bold  Coors  Drop' CTR 0.0072 vs baseline 0.0131 (-44.9%)",
+      "segment_filter": {
+        "campaign_name": "Men  Bold  Coors  Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0072,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005865511111111112,
+        "ctr_pct_change": -44.893,
+        "impressions": 21626
+      },
+      "impact": "high",
+      "confidence": 0.5058655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 21626,
+        "mean_ctr": 0.007167298622029039,
+        "mean_roas": 0.16723302322990363,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_afdf34",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men  old  Colors  Drop' CTR 0.0101 vs baseline 0.0131 (-22.7%)",
+      "segment_filter": {
+        "campaign_name": "Men  old  Colors  Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0101,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002965511111111112,
+        "ctr_pct_change": -22.697,
+        "impressions": 409168
+      },
+      "impact": "high",
+      "confidence": 0.5029655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 409168,
+        "mean_ctr": 0.010076545575411567,
+        "mean_roas": 4.318529053230394,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_410220",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men  remium Modal' CTR 0.0104 vs baseline 0.0131 (-20.4%)",
+      "segment_filter": {
+        "campaign_name": "Men  remium Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0104,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0026655111111111122,
+        "ctr_pct_change": -20.401,
+        "impressions": 385452
+      },
+      "impact": "high",
+      "confidence": 0.5026655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 385452,
+        "mean_ctr": 0.010426719799093013,
+        "mean_roas": 6.28859970177579,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_22abd5",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men -old Colors Drop' CTR 0.0083 vs baseline 0.0131 (-36.5%)",
+      "segment_filter": {
+        "campaign_name": "Men -old Colors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0083,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004765511111111112,
+        "ctr_pct_change": -36.474,
+        "impressions": 290072
+      },
+      "impact": "high",
+      "confidence": 0.5047655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 290072,
+        "mean_ctr": 0.008339308861248241,
+        "mean_roas": 2.144072725046678,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ba5d10",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men B-ld Colors Drop' CTR 0.0066 vs baseline 0.0131 (-49.5%)",
+      "segment_filter": {
+        "campaign_name": "Men B-ld Colors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0066,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006465511111111112,
+        "ctr_pct_change": -49.485,
+        "impressions": 137218
+      },
+      "impact": "high",
+      "confidence": 0.5064655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 137218,
+        "mean_ctr": 0.006624495328601204,
+        "mean_roas": 0.9135719298245614,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_6a716c",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Bol Colors Drop' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "Men Bol Colors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 294602
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 294602,
+        "mean_ctr": 0.009592602901541741,
+        "mean_roas": 1.421192243630606,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_3144c8",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Bold -olors Drop' CTR 0.0093 vs baseline 0.0131 (-28.8%)",
+      "segment_filter": {
+        "campaign_name": "Men Bold -olors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0093,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037655111111111125,
+        "ctr_pct_change": -28.82,
+        "impressions": 208052
+      },
+      "impact": "high",
+      "confidence": 0.5037655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 208052,
+        "mean_ctr": 0.00927172053140561,
+        "mean_roas": 2.171722079544666,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_bcaabf",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Bold Col-rs Drop' CTR 0.0084 vs baseline 0.0131 (-35.7%)",
+      "segment_filter": {
+        "campaign_name": "Men Bold Col-rs Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0084,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004665511111111112,
+        "ctr_pct_change": -35.709,
+        "impressions": 367632
+      },
+      "impact": "high",
+      "confidence": 0.5046655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 367632,
+        "mean_ctr": 0.008391543717630675,
+        "mean_roas": 15.990214592274677,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_a36b24",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Bold Colors Dr p' CTR 0.0089 vs baseline 0.0131 (-31.9%)",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors Dr p"
+      },
+      "evidence": {
+        "ctr_current": 0.0089,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004165511111111112,
+        "ctr_pct_change": -31.882,
+        "impressions": 30932
+      },
+      "impact": "high",
+      "confidence": 0.5041655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 30932,
+        "mean_ctr": 0.008890469416785207,
+        "mean_roas": 0.23506908217142491,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_5cca6f",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Bold Colors Drop' CTR 0.0090 vs baseline 0.0131 (-31.1%)",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.009005882352941176,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004059628758169936,
+        "ctr_pct_change": -31.071,
+        "impressions": 53148455
+      },
+      "impact": "high",
+      "confidence": 0.5040596287581699,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 53148455,
+        "mean_ctr": 0.008280805152285235,
+        "mean_roas": 1.7397462241697597,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_4b691d",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men BoldColors Drop' CTR 0.0061 vs baseline 0.0131 (-53.3%)",
+      "segment_filter": {
+        "campaign_name": "Men BoldColors Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0061,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006965511111111111,
+        "ctr_pct_change": -53.312,
+        "impressions": 173827
+      },
+      "impact": "high",
+      "confidence": 0.5069655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 173827,
+        "mean_ctr": 0.006098016993907736,
+        "mean_roas": 0.50751676817516,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_32fc39",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Prem um Modal' CTR 0.0078 vs baseline 0.0131 (-40.3%)",
+      "segment_filter": {
+        "campaign_name": "Men Prem um Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0078,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005265511111111112,
+        "ctr_pct_change": -40.301,
+        "impressions": 37208
+      },
+      "impact": "high",
+      "confidence": 0.5052655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 37208,
+        "mean_ctr": 0.0077402709094818315,
+        "mean_roas": 0.333033303330333,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_027b82",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Premiu- Modal' CTR 0.0103 vs baseline 0.0131 (-21.2%)",
+      "segment_filter": {
+        "campaign_name": "Men Premiu- Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0103,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0027655111111111116,
+        "ctr_pct_change": -21.166,
+        "impressions": 222084
+      },
+      "impact": "high",
+      "confidence": 0.5027655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 222084,
+        "mean_ctr": 0.0,
+        "mean_roas": 4.031911911911912,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_e3a596",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Premium -odal' CTR 0.0066 vs baseline 0.0131 (-49.5%)",
+      "segment_filter": {
+        "campaign_name": "Men Premium -odal"
+      },
+      "evidence": {
+        "ctr_current": 0.0066,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006465511111111112,
+        "ctr_pct_change": -49.485,
+        "impressions": 118261
+      },
+      "impact": "high",
+      "confidence": 0.5064655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 118261,
+        "mean_ctr": 0.00655330159562324,
+        "mean_roas": 1.5877917480918846,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_5c7099",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Premium M-dal' CTR 0.0098 vs baseline 0.0131 (-25.0%)",
+      "segment_filter": {
+        "campaign_name": "Men Premium M-dal"
+      },
+      "evidence": {
+        "ctr_current": 0.0098,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003265511111111112,
+        "ctr_pct_change": -24.993,
+        "impressions": 336441
+      },
+      "impact": "high",
+      "confidence": 0.5032655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 336441,
+        "mean_ctr": 0.00979369339646476,
+        "mean_roas": 2.6538429511199935,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_2cc3cc",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men Premium Mod-l' CTR 0.0101 vs baseline 0.0131 (-22.7%)",
+      "segment_filter": {
+        "campaign_name": "Men Premium Mod-l"
+      },
+      "evidence": {
+        "ctr_current": 0.0101,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002965511111111112,
+        "ctr_pct_change": -22.697,
+        "impressions": 122852
+      },
+      "impact": "high",
+      "confidence": 0.5029655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 122852,
+        "mean_ctr": 0.0100608862696578,
+        "mean_roas": 2.714872722043022,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_6e6d2d",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men remium Modal' CTR 0.0084 vs baseline 0.0131 (-35.7%)",
+      "segment_filter": {
+        "campaign_name": "Men remium Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0084,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004665511111111112,
+        "ctr_pct_change": -35.709,
+        "impressions": 367130
+      },
+      "impact": "high",
+      "confidence": 0.5046655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 367130,
+        "mean_ctr": 0.008443875466456023,
+        "mean_roas": 2.6077011131286016,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_b08539",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men- Premium  Modal' CTR 0.0081 vs baseline 0.0131 (-38.0%)",
+      "segment_filter": {
+        "campaign_name": "Men- Premium  Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0081,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004965511111111112,
+        "ctr_pct_change": -38.005,
+        "impressions": 301636
+      },
+      "impact": "high",
+      "confidence": 0.5049655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 301636,
+        "mean_ctr": 0.008135633677677731,
+        "mean_roas": 13.828397015600272,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_309757",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men-Premium Modal' CTR 0.0099 vs baseline 0.0131 (-24.2%)",
+      "segment_filter": {
+        "campaign_name": "Men-Premium Modal"
+      },
+      "evidence": {
+        "ctr_current": 0.0099,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003165511111111111,
+        "ctr_pct_change": -24.228,
+        "impressions": 285548
+      },
+      "impact": "high",
+      "confidence": 0.5031655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 285548,
+        "mean_ctr": 0.009854735456035412,
+        "mean_roas": 10.065953093026916,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ee5751",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Men_Bold_Colors_Drop' CTR 0.0093 vs baseline 0.0131 (-28.7%)",
+      "segment_filter": {
+        "campaign_name": "Men_Bold_Colors_Drop"
+      },
+      "evidence": {
+        "ctr_current": 0.009314285714285714,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037512253968253976,
+        "ctr_pct_change": -28.711,
+        "impressions": 12565923
+      },
+      "impact": "high",
+      "confidence": 0.5037512253968254,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 12565923,
+        "mean_ctr": 0.009326652725788627,
+        "mean_roas": 1.7126073422922155,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_b0fca7",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'OMEN  Cotton  Classics' CTR 0.0102 vs baseline 0.0131 (-21.9%)",
+      "segment_filter": {
+        "campaign_name": "OMEN  Cotton  Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0102,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002865511111111111,
+        "ctr_pct_change": -21.932,
+        "impressions": 181730
+      },
+      "impact": "high",
+      "confidence": 0.5028655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 181730,
+        "mean_ctr": 0.010245969295108128,
+        "mean_roas": 9.839910313901346,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_38087d",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'OMEN COTTON CLASSICS' CTR 0.0076 vs baseline 0.0131 (-41.8%)",
+      "segment_filter": {
+        "campaign_name": "OMEN COTTON CLASSICS"
+      },
+      "evidence": {
+        "ctr_current": 0.0076,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005465511111111112,
+        "ctr_pct_change": -41.832,
+        "impressions": 22171
+      },
+      "impact": "high",
+      "confidence": 0.5054655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 22171,
+        "mean_ctr": 0.0075774660592666096,
+        "mean_roas": 0.3223102828349328,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_53cb6b",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'W MEN Cotton Classics' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "W MEN Cotton Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 516847
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 516847,
+        "mean_ctr": 0.008845944737997899,
+        "mean_roas": 15.443971179491264,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ae0698",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'W men Summer Invisible' CTR 0.0083 vs baseline 0.0131 (-36.5%)",
+      "segment_filter": {
+        "campaign_name": "W men Summer Invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0083,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004765511111111112,
+        "ctr_pct_change": -36.474,
+        "impressions": 271270
+      },
+      "impact": "high",
+      "confidence": 0.5047655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 271270,
+        "mean_ctr": 0.008323810225974122,
+        "mean_roas": 1.0644824562624393,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_20ff98",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WMEN Seamless Everyday' CTR 0.0098 vs baseline 0.0131 (-25.0%)",
+      "segment_filter": {
+        "campaign_name": "WMEN Seamless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0098,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003265511111111112,
+        "ctr_pct_change": -24.993,
+        "impressions": 222142
+      },
+      "impact": "high",
+      "confidence": 0.5032655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 222142,
+        "mean_ctr": 0.009822545939084009,
+        "mean_roas": 31.144606078064232,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9d0bc5",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOEN  Cotton  Classics' CTR 0.0054 vs baseline 0.0131 (-58.7%)",
+      "segment_filter": {
+        "campaign_name": "WOEN  Cotton  Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0054,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0076655111111111115,
+        "ctr_pct_change": -58.67,
+        "impressions": 225783
+      },
+      "impact": "high",
+      "confidence": 0.5076655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 225783,
+        "mean_ctr": 0.005438850577767148,
+        "mean_roas": 2.6739841624117164,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_294c69",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOEN FIT & LIFT' CTR 0.0069 vs baseline 0.0131 (-47.2%)",
+      "segment_filter": {
+        "campaign_name": "WOEN FIT & LIFT"
+      },
+      "evidence": {
+        "ctr_current": 0.0069,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006165511111111112,
+        "ctr_pct_change": -47.189,
+        "impressions": 282108
+      },
+      "impact": "high",
+      "confidence": 0.5061655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 282108,
+        "mean_ctr": 0.006851985764317212,
+        "mean_roas": 1.1849070100143062,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_e2c3ad",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN  -eamless  Everyday' CTR 0.0097 vs baseline 0.0131 (-25.8%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN  -eamless  Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0097,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0033655111111111115,
+        "ctr_pct_change": -25.759,
+        "impressions": 88153
+      },
+      "impact": "high",
+      "confidence": 0.5033655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 88153,
+        "mean_ctr": 0.00972173380372761,
+        "mean_roas": 12.67899696285336,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_39bd5d",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN  Seamles   Everyday' CTR 0.0091 vs baseline 0.0131 (-30.4%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamles   Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0091,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003965511111111111,
+        "ctr_pct_change": -30.351,
+        "impressions": 109081
+      },
+      "impact": "high",
+      "confidence": 0.5039655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 109081,
+        "mean_ctr": 0.009103326885525436,
+        "mean_roas": 4.515565161339248,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_b0906a",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN  Seamless  Everyday' CTR 0.0077 vs baseline 0.0131 (-40.8%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamless  Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.007728301886792454,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005337209224318658,
+        "ctr_pct_change": -40.85,
+        "impressions": 14988598
+      },
+      "impact": "high",
+      "confidence": 0.5053372092243187,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 14988598,
+        "mean_ctr": 0.0072809344809968216,
+        "mean_roas": 5.386625928535273,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_2e235b",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN COTTON CLASSIS' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON CLASSIS"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 346839
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 346839,
+        "mean_ctr": 0.009612529156179092,
+        "mean_roas": 4.690904717434983,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_3df059",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN COTTON LASSICS' CTR 0.0102 vs baseline 0.0131 (-21.9%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON LASSICS"
+      },
+      "evidence": {
+        "ctr_current": 0.0102,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002865511111111111,
+        "ctr_pct_change": -21.932,
+        "impressions": 258390
+      },
+      "impact": "high",
+      "confidence": 0.5028655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 258390,
+        "mean_ctr": 0.010197763071326289,
+        "mean_roas": 11.186554132712457,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_8ebde7",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN Cot-on Classics' CTR 0.0095 vs baseline 0.0131 (-27.3%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN Cot-on Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0095,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003565511111111112,
+        "ctr_pct_change": -27.289,
+        "impressions": 452982
+      },
+      "impact": "high",
+      "confidence": 0.5035655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 452982,
+        "mean_ctr": 0.0095169344477264,
+        "mean_roas": 4.667916602731318,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_873725",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN SEAM ESS EVERYDAY' CTR 0.0092 vs baseline 0.0131 (-29.6%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAM ESS EVERYDAY"
+      },
+      "evidence": {
+        "ctr_current": 0.0092,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003865511111111112,
+        "ctr_pct_change": -29.586,
+        "impressions": 381636
+      },
+      "impact": "high",
+      "confidence": 0.5038655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 381636,
+        "mean_ctr": 0.009220828223752477,
+        "mean_roas": 3.324886768280996,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_0dffae",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN SEAMLESS EV RYDAY' CTR 0.0079 vs baseline 0.0131 (-39.5%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EV RYDAY"
+      },
+      "evidence": {
+        "ctr_current": 0.0079,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005165511111111111,
+        "ctr_pct_change": -39.535,
+        "impressions": 231358
+      },
+      "impact": "high",
+      "confidence": 0.5051655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 231358,
+        "mean_ctr": 0.007875240968542259,
+        "mean_roas": 7.643591428947022,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_1a11cd",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN SEAMLESS EVE YDAY' CTR 0.0075 vs baseline 0.0131 (-42.6%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EVE YDAY"
+      },
+      "evidence": {
+        "ctr_current": 0.0075,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005565511111111112,
+        "ctr_pct_change": -42.597,
+        "impressions": 76426
+      },
+      "impact": "high",
+      "confidence": 0.5055655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 76426,
+        "mean_ctr": 0.007510533064663858,
+        "mean_roas": 2.964709642074507,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_75cfcc",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN SEAMLESS EVERYDAY' CTR 0.0083 vs baseline 0.0131 (-36.3%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EVERYDAY"
+      },
+      "evidence": {
+        "ctr_current": 0.008322448979591836,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004743062131519276,
+        "ctr_pct_change": -36.302,
+        "impressions": 14359473
+      },
+      "impact": "high",
+      "confidence": 0.5047430621315193,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 14359473,
+        "mean_ctr": 0.007860943086142507,
+        "mean_roas": 5.979968209413117,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_fafeb8",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN Seamless Eeryday' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Eeryday"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 377449
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 377449,
+        "mean_ctr": 0.009598647764333725,
+        "mean_roas": 16.499431797353274,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_2f6615",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN Seamless Everyday' CTR 0.0088 vs baseline 0.0131 (-32.8%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.00877409638554217,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004291414725568942,
+        "ctr_pct_change": -32.845,
+        "impressions": 43874355
+      },
+      "impact": "high",
+      "confidence": 0.5042914147255689,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 43874355,
+        "mean_ctr": 0.00855688932635021,
+        "mean_roas": 5.911138371018499,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_720f42",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN Seamless Everydy' CTR 0.0053 vs baseline 0.0131 (-59.4%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Everydy"
+      },
+      "evidence": {
+        "ctr_current": 0.0053,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.007765511111111112,
+        "ctr_pct_change": -59.435,
+        "impressions": 463408
+      },
+      "impact": "high",
+      "confidence": 0.5077655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 463408,
+        "mean_ctr": 0.005261022684114215,
+        "mean_roas": 13.918750405923232,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_d01563",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN Semless Everyday' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN Semless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 97354
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 97354,
+        "mean_ctr": 0.0,
+        "mean_roas": 3.260679594121258,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_718deb",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN eamless Everyday' CTR 0.0086 vs baseline 0.0131 (-34.2%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN eamless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0086,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004465511111111112,
+        "ctr_pct_change": -34.178,
+        "impressions": 40709
+      },
+      "impact": "high",
+      "confidence": 0.5044655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40709,
+        "mean_ctr": 0.008646736593873591,
+        "mean_roas": 2.162099437650629,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_84e97e",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN | SUDIO SPORTS' CTR 0.0093 vs baseline 0.0131 (-28.8%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN | SUDIO SPORTS"
+      },
+      "evidence": {
+        "ctr_current": 0.0093,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037655111111111125,
+        "ctr_pct_change": -28.82,
+        "impressions": 207501
+      },
+      "impact": "high",
+      "confidence": 0.5037655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 207501,
+        "mean_ctr": 0.009252967455578527,
+        "mean_roas": 7.935846933033202,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_0aebb5",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMENSeamless Everyday' CTR 0.0091 vs baseline 0.0131 (-30.4%)",
+      "segment_filter": {
+        "campaign_name": "WOMENSeamless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0091,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003965511111111111,
+        "ctr_pct_change": -30.351,
+        "impressions": 174848
+      },
+      "impact": "high",
+      "confidence": 0.5039655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 174848,
+        "mean_ctr": 0.009093612737920937,
+        "mean_roas": 11.508352882633115,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9c04e3",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN_Cot-on_Classics' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Cot-on_Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 512834
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 512834,
+        "mean_ctr": 0.0,
+        "mean_roas": 3.270009151795,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_7b5f18",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN_Seamless_Ever-day' CTR 0.0081 vs baseline 0.0131 (-38.0%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Seamless_Ever-day"
+      },
+      "evidence": {
+        "ctr_current": 0.0081,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004965511111111112,
+        "ctr_pct_change": -38.005,
+        "impressions": 142145
+      },
+      "impact": "high",
+      "confidence": 0.5049655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 142145,
+        "mean_ctr": 0.008118470575820465,
+        "mean_roas": 6.36226976553281,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_d9f29a",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMEN_Seamless_Everyday' CTR 0.0082 vs baseline 0.0131 (-37.6%)",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Seamless_Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.008158181818181818,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004907329292929294,
+        "ctr_pct_change": -37.559,
+        "impressions": 12568757
+      },
+      "impact": "high",
+      "confidence": 0.5049073292929293,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 12568757,
+        "mean_ctr": 0.007909135326587984,
+        "mean_roas": 3.642599676497513,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_deccc4",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WOMN_Cotton_Classics' CTR 0.0060 vs baseline 0.0131 (-54.1%)",
+      "segment_filter": {
+        "campaign_name": "WOMN_Cotton_Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.006,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.007065511111111112,
+        "ctr_pct_change": -54.078,
+        "impressions": 243469
+      },
+      "impact": "high",
+      "confidence": 0.5070655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 243469,
+        "mean_ctr": 0.0060048712567103,
+        "mean_roas": 9.730484910139031,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_704b22",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Wmen | Studio Sports' CTR 0.0062 vs baseline 0.0131 (-52.5%)",
+      "segment_filter": {
+        "campaign_name": "Wmen | Studio Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0062,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006865511111111112,
+        "ctr_pct_change": -52.547,
+        "impressions": 182623
+      },
+      "impact": "high",
+      "confidence": 0.5068655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 182623,
+        "mean_ctr": 0.0062149893496438015,
+        "mean_roas": 1.9459186875252141,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_997ea3",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women  |  Studio Sports' CTR 0.0102 vs baseline 0.0131 (-21.9%)",
+      "segment_filter": {
+        "campaign_name": "Women  |  Studio Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0102,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.002865511111111111,
+        "ctr_pct_change": -21.932,
+        "impressions": 429047
+      },
+      "impact": "high",
+      "confidence": 0.5028655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 429047,
+        "mean_ctr": 0.01024596372891548,
+        "mean_roas": 30.917929292929294,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_c2a7a6",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women C-tton Classics' CTR 0.0079 vs baseline 0.0131 (-39.5%)",
+      "segment_filter": {
+        "campaign_name": "Women C-tton Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0079,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005165511111111111,
+        "ctr_pct_change": -39.535,
+        "impressions": 52394
+      },
+      "impact": "high",
+      "confidence": 0.5051655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 52394,
+        "mean_ctr": 0.007958926594648242,
+        "mean_roas": 0.8345030131970401,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_44372f",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Co-ton Classics' CTR 0.0090 vs baseline 0.0131 (-31.1%)",
+      "segment_filter": {
+        "campaign_name": "Women Co-ton Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.009000000000000001,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004065511111111111,
+        "ctr_pct_change": -31.116,
+        "impressions": 221005
+      },
+      "impact": "high",
+      "confidence": 0.5040655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 221005,
+        "mean_ctr": 0.011502002217144409,
+        "mean_roas": 2.3012380471558074,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_0ffc8f",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Cottn Classics' CTR 0.0084 vs baseline 0.0131 (-35.7%)",
+      "segment_filter": {
+        "campaign_name": "Women Cottn Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0084,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004665511111111112,
+        "ctr_pct_change": -35.709,
+        "impressions": 217209
+      },
+      "impact": "high",
+      "confidence": 0.5046655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 217209,
+        "mean_ctr": 0.008360611208559498,
+        "mean_roas": 5.4016696452615856,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_f12a64",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Cotton Classics' CTR 0.0102 vs baseline 0.0131 (-21.8%)",
+      "segment_filter": {
+        "campaign_name": "Women Cotton Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.010211320754716981,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0028541903563941307,
+        "ctr_pct_change": -21.845,
+        "impressions": 15926665
+      },
+      "impact": "high",
+      "confidence": 0.5028541903563941,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 15926665,
+        "mean_ctr": 0.01010349624356386,
+        "mean_roas": 8.070631165537929,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_715da6",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Cotton lassics' CTR 0.0083 vs baseline 0.0131 (-36.5%)",
+      "segment_filter": {
+        "campaign_name": "Women Cotton lassics"
+      },
+      "evidence": {
+        "ctr_current": 0.0083,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004765511111111112,
+        "ctr_pct_change": -36.474,
+        "impressions": 474673
+      },
+      "impact": "high",
+      "confidence": 0.5047655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 474673,
+        "mean_ctr": 0.008294130906961213,
+        "mean_roas": 10.99931855677498,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_5e95cf",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Fit  Lift' CTR 0.0083 vs baseline 0.0131 (-36.5%)",
+      "segment_filter": {
+        "campaign_name": "Women Fit  Lift"
+      },
+      "evidence": {
+        "ctr_current": 0.0083,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004765511111111112,
+        "ctr_pct_change": -36.474,
+        "impressions": 270275
+      },
+      "impact": "high",
+      "confidence": 0.5047655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 270275,
+        "mean_ctr": 0.008321154379798353,
+        "mean_roas": 2.518739054290718,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_e498e5",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Seamless Everyday' CTR 0.0085 vs baseline 0.0131 (-34.7%)",
+      "segment_filter": {
+        "campaign_name": "Women Seamless Everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.008531914893617022,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0045335962174940896,
+        "ctr_pct_change": -34.699,
+        "impressions": 13727649
+      },
+      "impact": "high",
+      "confidence": 0.504533596217494,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 13727649,
+        "mean_ctr": 0.007431498284957606,
+        "mean_roas": 5.441691767440187,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_c82d88",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Summer In-isible' CTR 0.0097 vs baseline 0.0131 (-25.8%)",
+      "segment_filter": {
+        "campaign_name": "Women Summer In-isible"
+      },
+      "evidence": {
+        "ctr_current": 0.0097,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0033655111111111115,
+        "ctr_pct_change": -25.759,
+        "impressions": 59910
+      },
+      "impact": "high",
+      "confidence": 0.5033655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 59910,
+        "mean_ctr": 0.009697880153563678,
+        "mean_roas": 2.1486358330901663,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_47a1dc",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women Summer Invisible' CTR 0.0103 vs baseline 0.0131 (-20.8%)",
+      "segment_filter": {
+        "campaign_name": "Women Summer Invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.010343478260869565,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0027220328502415465,
+        "ctr_pct_change": -20.834,
+        "impressions": 10846426
+      },
+      "impact": "high",
+      "confidence": 0.5027220328502415,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 10846426,
+        "mean_ctr": 0.010219587539711238,
+        "mean_roas": 3.4305436431722316,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_897adb",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women | Stu io Sports' CTR 0.0093 vs baseline 0.0131 (-28.8%)",
+      "segment_filter": {
+        "campaign_name": "Women | Stu io Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0093,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037655111111111125,
+        "ctr_pct_change": -28.82,
+        "impressions": 487391
+      },
+      "impact": "high",
+      "confidence": 0.5037655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 487391,
+        "mean_ctr": 0.009292334080850898,
+        "mean_roas": 8.476816258702856,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_685666",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women | Studio Sp rts' CTR 0.0098 vs baseline 0.0131 (-25.0%)",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Sp rts"
+      },
+      "evidence": {
+        "ctr_current": 0.0098,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003265511111111112,
+        "ctr_pct_change": -24.993,
+        "impressions": 96140
+      },
+      "impact": "high",
+      "confidence": 0.5032655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 96140,
+        "mean_ctr": 0.009798210942375702,
+        "mean_roas": 1.0172045440539041,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_55c680",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women | Studio Spo-ts' CTR 0.0095 vs baseline 0.0131 (-27.3%)",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Spo-ts"
+      },
+      "evidence": {
+        "ctr_current": 0.0095,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003565511111111112,
+        "ctr_pct_change": -27.289,
+        "impressions": 220998
+      },
+      "impact": "high",
+      "confidence": 0.5035655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 220998,
+        "mean_ctr": 0.009461624087095812,
+        "mean_roas": 3.5177268102800023,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_d0b1ff",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women-Studio -ports' CTR 0.0090 vs baseline 0.0131 (-31.1%)",
+      "segment_filter": {
+        "campaign_name": "Women-Studio -ports"
+      },
+      "evidence": {
+        "ctr_current": 0.009,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0040655111111111124,
+        "ctr_pct_change": -31.116,
+        "impressions": 298747
+      },
+      "impact": "high",
+      "confidence": 0.5040655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 298747,
+        "mean_ctr": 0.00900762183385942,
+        "mean_roas": 6.631991755116245,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_59dd08",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women-Studio S orts' CTR 0.0066 vs baseline 0.0131 (-49.5%)",
+      "segment_filter": {
+        "campaign_name": "Women-Studio S orts"
+      },
+      "evidence": {
+        "ctr_current": 0.0066,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006465511111111112,
+        "ctr_pct_change": -49.485,
+        "impressions": 270653
+      },
+      "impact": "high",
+      "confidence": 0.5064655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 270653,
+        "mean_ctr": 0.006554518146852243,
+        "mean_roas": 2.612626033637757,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_0551d4",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women-Studio Spo-ts' CTR 0.0104 vs baseline 0.0131 (-20.4%)",
+      "segment_filter": {
+        "campaign_name": "Women-Studio Spo-ts"
+      },
+      "evidence": {
+        "ctr_current": 0.0104,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0026655111111111122,
+        "ctr_pct_change": -20.401,
+        "impressions": 268566
+      },
+      "impact": "high",
+      "confidence": 0.5026655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 268566,
+        "mean_ctr": 0.0,
+        "mean_roas": 19.17096607288048,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_fdad3f",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women-Studio-Sports' CTR 0.0089 vs baseline 0.0131 (-31.9%)",
+      "segment_filter": {
+        "campaign_name": "Women-Studio-Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0089,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004165511111111112,
+        "ctr_pct_change": -31.882,
+        "impressions": 144211
+      },
+      "impact": "high",
+      "confidence": 0.5041655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 144211,
+        "mean_ctr": 0.00887588325439807,
+        "mean_roas": 41.070960451977406,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ca9ea6",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'WomenCotton Classics' CTR 0.0095 vs baseline 0.0131 (-27.3%)",
+      "segment_filter": {
+        "campaign_name": "WomenCotton Classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0095,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003565511111111112,
+        "ctr_pct_change": -27.289,
+        "impressions": 83855
+      },
+      "impact": "high",
+      "confidence": 0.5035655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 83855,
+        "mean_ctr": 0.009492576471289727,
+        "mean_roas": 8.248634625887494,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_02932a",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'Women_|-Studio_Sports' CTR 0.0097 vs baseline 0.0131 (-25.8%)",
+      "segment_filter": {
+        "campaign_name": "Women_|-Studio_Sports"
+      },
+      "evidence": {
+        "ctr_current": 0.0097,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0033655111111111115,
+        "ctr_pct_change": -25.759,
+        "impressions": 155276
+      },
+      "impact": "high",
+      "confidence": 0.5033655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 155276,
+        "mean_ctr": 0.009673098225095959,
+        "mean_roas": 6.3013640464943474,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_6d3975",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'me bold colors drop' CTR 0.0092 vs baseline 0.0131 (-29.6%)",
+      "segment_filter": {
+        "campaign_name": "me bold colors drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0092,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003865511111111112,
+        "ctr_pct_change": -29.586,
+        "impressions": 405401
+      },
+      "impact": "high",
+      "confidence": 0.5038655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 405401,
+        "mean_ctr": 0.009151432778902863,
+        "mean_roas": 1.8758749527052592,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_7271d9",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'men bld colors drop' CTR 0.0087 vs baseline 0.0131 (-33.4%)",
+      "segment_filter": {
+        "campaign_name": "men bld colors drop"
+      },
+      "evidence": {
+        "ctr_current": 0.0087,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004365511111111112,
+        "ctr_pct_change": -33.412,
+        "impressions": 150277
+      },
+      "impact": "high",
+      "confidence": 0.5043655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 150277,
+        "mean_ctr": 0.008683963613859738,
+        "mean_roas": 1.7765967483254193,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_3f088a",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'men bold colors drop' CTR 0.0096 vs baseline 0.0131 (-26.3%)",
+      "segment_filter": {
+        "campaign_name": "men bold colors drop"
+      },
+      "evidence": {
+        "ctr_current": 0.009633962264150942,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.00343154884696017,
+        "ctr_pct_change": -26.264,
+        "impressions": 15676184
+      },
+      "impact": "high",
+      "confidence": 0.5034315488469602,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 15676184,
+        "mean_ctr": 0.009700957835146615,
+        "mean_roas": 1.8168359222957438,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9a3653",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'w men cotton classics' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "w men cotton classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 48688
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 48688,
+        "mean_ctr": 0.008770128162997043,
+        "mean_roas": 0.8703569168756299,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_64b107",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'w-men cotton classics' CTR 0.0094 vs baseline 0.0131 (-28.1%)",
+      "segment_filter": {
+        "campaign_name": "w-men cotton classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0094,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0036655111111111114,
+        "ctr_pct_change": -28.055,
+        "impressions": 494553
+      },
+      "impact": "high",
+      "confidence": 0.5036655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 494553,
+        "mean_ctr": 0.009384231821463019,
+        "mean_roas": 9.354591605475477,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_86408c",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'wo-en seamless everyday' CTR 0.0097 vs baseline 0.0131 (-25.8%)",
+      "segment_filter": {
+        "campaign_name": "wo-en seamless everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0097,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0033655111111111115,
+        "ctr_pct_change": -25.759,
+        "impressions": 352047
+      },
+      "impact": "high",
+      "confidence": 0.5033655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 352047,
+        "mean_ctr": 0.00965212031348087,
+        "mean_roas": 4.7369595536959554,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_41b8cf",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women  Summ r  Invisible' CTR 0.0086 vs baseline 0.0131 (-34.2%)",
+      "segment_filter": {
+        "campaign_name": "women  Summ r  Invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0086,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004465511111111112,
+        "ctr_pct_change": -34.178,
+        "impressions": 176180
+      },
+      "impact": "high",
+      "confidence": 0.5044655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 176180,
+        "mean_ctr": 0.008621864002724485,
+        "mean_roas": 1.5380405570486195,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_8ab5b0",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women  Summer  Invi ible' CTR 0.0094 vs baseline 0.0131 (-28.1%)",
+      "segment_filter": {
+        "campaign_name": "women  Summer  Invi ible"
+      },
+      "evidence": {
+        "ctr_current": 0.0094,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0036655111111111114,
+        "ctr_pct_change": -28.055,
+        "impressions": 352330
+      },
+      "impact": "high",
+      "confidence": 0.5036655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 352330,
+        "mean_ctr": 0.009394601651860473,
+        "mean_roas": 13.562446200798183,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9afe17",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women  Summer  Invisib e' CTR 0.0100 vs baseline 0.0131 (-23.5%)",
+      "segment_filter": {
+        "campaign_name": "women  Summer  Invisib e"
+      },
+      "evidence": {
+        "ctr_current": 0.01,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0030655111111111116,
+        "ctr_pct_change": -23.463,
+        "impressions": 388737
+      },
+      "impact": "high",
+      "confidence": 0.5030655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 388737,
+        "mean_ctr": 0.009975896300069198,
+        "mean_roas": 8.776865123116501,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ebb101",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women Su mer Invisible' CTR 0.0079 vs baseline 0.0131 (-39.5%)",
+      "segment_filter": {
+        "campaign_name": "women Su mer Invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0079,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005165511111111111,
+        "ctr_pct_change": -39.535,
+        "impressions": 449572
+      },
+      "impact": "high",
+      "confidence": 0.5051655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 449572,
+        "mean_ctr": 0.00788527755287251,
+        "mean_roas": 24.39434118621996,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_a24838",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women Summer In-isible' CTR 0.0093 vs baseline 0.0131 (-28.8%)",
+      "segment_filter": {
+        "campaign_name": "women Summer In-isible"
+      },
+      "evidence": {
+        "ctr_current": 0.0093,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037655111111111125,
+        "ctr_pct_change": -28.82,
+        "impressions": 294900
+      },
+      "impact": "high",
+      "confidence": 0.5037655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 294900,
+        "mean_ctr": 0.009348931841302137,
+        "mean_roas": 24.31460490907608,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_23cd12",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women Summer Invisble' CTR 0.0089 vs baseline 0.0131 (-31.9%)",
+      "segment_filter": {
+        "campaign_name": "women Summer Invisble"
+      },
+      "evidence": {
+        "ctr_current": 0.0089,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004165511111111112,
+        "ctr_pct_change": -31.882,
+        "impressions": 105538
+      },
+      "impact": "high",
+      "confidence": 0.5041655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 105538,
+        "mean_ctr": 0.008935170270423924,
+        "mean_roas": 1.447872718232829,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_4bd9ca",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women Summer Invisi-le' CTR 0.0089 vs baseline 0.0131 (-31.9%)",
+      "segment_filter": {
+        "campaign_name": "women Summer Invisi-le"
+      },
+      "evidence": {
+        "ctr_current": 0.0089,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004165511111111112,
+        "ctr_pct_change": -31.882,
+        "impressions": 478776
+      },
+      "impact": "high",
+      "confidence": 0.5041655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 478776,
+        "mean_ctr": 0.00893319631727572,
+        "mean_roas": 12.857939555852397,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_789469",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women c-tton classics' CTR 0.0083 vs baseline 0.0131 (-36.5%)",
+      "segment_filter": {
+        "campaign_name": "women c-tton classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0083,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004765511111111112,
+        "ctr_pct_change": -36.474,
+        "impressions": 112581
+      },
+      "impact": "high",
+      "confidence": 0.5047655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 112581,
+        "mean_ctr": 0.008322896403478384,
+        "mean_roas": 3.0406732117812063,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_36ca23",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women cott n classics' CTR 0.0093 vs baseline 0.0131 (-28.8%)",
+      "segment_filter": {
+        "campaign_name": "women cott n classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0093,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0037655111111111125,
+        "ctr_pct_change": -28.82,
+        "impressions": 311417
+      },
+      "impact": "high",
+      "confidence": 0.5037655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 311417,
+        "mean_ctr": 0.009305850354990253,
+        "mean_roas": 16.1317994553453,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_f67816",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women cotton clasics' CTR 0.0104 vs baseline 0.0131 (-20.4%)",
+      "segment_filter": {
+        "campaign_name": "women cotton clasics"
+      },
+      "evidence": {
+        "ctr_current": 0.0104,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0026655111111111122,
+        "ctr_pct_change": -20.401,
+        "impressions": 102919
+      },
+      "impact": "high",
+      "confidence": 0.5026655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 102919,
+        "mean_ctr": 0.010357659907305746,
+        "mean_roas": 1.2292114939398067,
+        "confidence": 0.5,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9c7f22",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women fit & li t' CTR 0.0078 vs baseline 0.0131 (-40.3%)",
+      "segment_filter": {
+        "campaign_name": "women fit & li t"
+      },
+      "evidence": {
+        "ctr_current": 0.0078,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005265511111111112,
+        "ctr_pct_change": -40.301,
+        "impressions": 258145
+      },
+      "impact": "high",
+      "confidence": 0.5052655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 258145,
+        "mean_ctr": 0.007790195432799396,
+        "mean_roas": null,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_84ebcc",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women s amless everyday' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "women s amless everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 296400
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 296400,
+        "mean_ctr": 0.009763832658569501,
+        "mean_roas": 1.82478773267045,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_6bb657",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women s-mmer invisible' CTR 0.0085 vs baseline 0.0131 (-34.9%)",
+      "segment_filter": {
+        "campaign_name": "women s-mmer invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0085,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004565511111111111,
+        "ctr_pct_change": -34.943,
+        "impressions": 103973
+      },
+      "impact": "high",
+      "confidence": 0.5045655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 103973,
+        "mean_ctr": 0.008492589422253855,
+        "mean_roas": 1.325733447448543,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_dbc419",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women seam-ess everyday' CTR 0.0092 vs baseline 0.0131 (-29.6%)",
+      "segment_filter": {
+        "campaign_name": "women seam-ess everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0092,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.003865511111111112,
+        "ctr_pct_change": -29.586,
+        "impressions": 257800
+      },
+      "impact": "high",
+      "confidence": 0.5038655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 257800,
+        "mean_ctr": 0.00917377812257564,
+        "mean_roas": 38.71219931271477,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_766065",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women seamess everyday' CTR 0.0077 vs baseline 0.0131 (-41.1%)",
+      "segment_filter": {
+        "campaign_name": "women seamess everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0077,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0053655111111111115,
+        "ctr_pct_change": -41.066,
+        "impressions": 84675
+      },
+      "impact": "high",
+      "confidence": 0.5053655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 84675,
+        "mean_ctr": 0.007676409802184824,
+        "mean_roas": 2.294297041781031,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9209ee",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women seamless everday' CTR 0.0094 vs baseline 0.0131 (-28.1%)",
+      "segment_filter": {
+        "campaign_name": "women seamless everday"
+      },
+      "evidence": {
+        "ctr_current": 0.0094,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0036655111111111114,
+        "ctr_pct_change": -28.055,
+        "impressions": 267204
+      },
+      "impact": "high",
+      "confidence": 0.5036655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 267204,
+        "mean_ctr": 0.00942725408302271,
+        "mean_roas": 2.0206856446610546,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_ae0c6b",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women seamless everyday' CTR 0.0080 vs baseline 0.0131 (-38.8%)",
+      "segment_filter": {
+        "campaign_name": "women seamless everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.007992156862745098,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005073354248366014,
+        "ctr_pct_change": -38.83,
+        "impressions": 13755475
+      },
+      "impact": "high",
+      "confidence": 0.505073354248366,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 13755475,
+        "mean_ctr": 0.007938293661251247,
+        "mean_roas": 5.299461878335309,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_280683",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women seamless-everyday' CTR 0.0089 vs baseline 0.0131 (-31.9%)",
+      "segment_filter": {
+        "campaign_name": "women seamless-everyday"
+      },
+      "evidence": {
+        "ctr_current": 0.0089,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004165511111111112,
+        "ctr_pct_change": -31.882,
+        "impressions": 338861
+      },
+      "impact": "high",
+      "confidence": 0.5041655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 338861,
+        "mean_ctr": 0.00894467052862383,
+        "mean_roas": 16.555179394108617,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_8090f3",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women su-mer invisible' CTR 0.0057 vs baseline 0.0131 (-56.4%)",
+      "segment_filter": {
+        "campaign_name": "women su-mer invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0057,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0073655111111111116,
+        "ctr_pct_change": -56.374,
+        "impressions": 287625
+      },
+      "impact": "high",
+      "confidence": 0.5073655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 287625,
+        "mean_ctr": 0.0057262059973924384,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_cc3f45",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women summe- invisible' CTR 0.0088 vs baseline 0.0131 (-32.6%)",
+      "segment_filter": {
+        "campaign_name": "women summe- invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0088,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004265511111111111,
+        "ctr_pct_change": -32.647,
+        "impressions": 189138
+      },
+      "impact": "high",
+      "confidence": 0.5042655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 189138,
+        "mean_ctr": 0.008845393310704353,
+        "mean_roas": 5.4283962823808585,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_9a32a8",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women summer in isible' CTR 0.0094 vs baseline 0.0131 (-28.1%)",
+      "segment_filter": {
+        "campaign_name": "women summer in isible"
+      },
+      "evidence": {
+        "ctr_current": 0.0094,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0036655111111111114,
+        "ctr_pct_change": -28.055,
+        "impressions": 127198
+      },
+      "impact": "high",
+      "confidence": 0.5036655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 127198,
+        "mean_ctr": 0.00944983411688863,
+        "mean_roas": 1.0455345428946274,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_87640e",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women | studio spo ts' CTR 0.0062 vs baseline 0.0131 (-52.5%)",
+      "segment_filter": {
+        "campaign_name": "women | studio spo ts"
+      },
+      "evidence": {
+        "ctr_current": 0.0062,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.006865511111111112,
+        "ctr_pct_change": -52.547,
+        "impressions": 190126
+      },
+      "impact": "high",
+      "confidence": 0.5068655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 190126,
+        "mean_ctr": 0.00615381378664675,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_23a340",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women_Summe _Invisible' CTR 0.0077 vs baseline 0.0131 (-41.1%)",
+      "segment_filter": {
+        "campaign_name": "women_Summe _Invisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0077,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0053655111111111115,
+        "ctr_pct_change": -41.066,
+        "impressions": 411098
+      },
+      "impact": "high",
+      "confidence": 0.5053655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 411098,
+        "mean_ctr": 0.007674569080851768,
+        "mean_roas": 2.407814479197116,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_07617f",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women_Summer_Inisible' CTR 0.0096 vs baseline 0.0131 (-26.5%)",
+      "segment_filter": {
+        "campaign_name": "women_Summer_Inisible"
+      },
+      "evidence": {
+        "ctr_current": 0.0096,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.0034655111111111126,
+        "ctr_pct_change": -26.524,
+        "impressions": 32574
+      },
+      "impact": "high",
+      "confidence": 0.5034655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 32574,
+        "mean_ctr": 0.00954749186467735,
+        "mean_roas": 0.5342683754880326,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_d96da8",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'women_Summer_Invisi-le' CTR 0.0086 vs baseline 0.0131 (-34.2%)",
+      "segment_filter": {
+        "campaign_name": "women_Summer_Invisi-le"
+      },
+      "evidence": {
+        "ctr_current": 0.0086,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.004465511111111112,
+        "ctr_pct_change": -34.178,
+        "impressions": 40462
+      },
+      "impact": "high",
+      "confidence": 0.5044655111111112,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40462,
+        "mean_ctr": 0.00862537689684148,
+        "mean_roas": 0.763236485704364,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_campaign_ctr_dbb043",
+      "title": "Campaign CTR decline",
+      "summary": "Campaign 'womn cotton classics' CTR 0.0079 vs baseline 0.0131 (-39.5%)",
+      "segment_filter": {
+        "campaign_name": "womn cotton classics"
+      },
+      "evidence": {
+        "ctr_current": 0.0079,
+        "ctr_baseline": 0.013065511111111112,
+        "ctr_delta_abs": -0.005165511111111111,
+        "ctr_pct_change": -39.535,
+        "impressions": 237466
+      },
+      "impact": "high",
+      "confidence": 0.5051655111111111,
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 237466,
+        "mean_ctr": 0.007900078327002602,
+        "mean_roas": 6.830281744699532,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    }
+  ]
+}

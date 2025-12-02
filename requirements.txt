@@ -1,0 +1,5 @@
+pandas>=1.5
+pyyaml
+tenacity
+pytest
+numpy
