@@ -1,0 +1,5142 @@
+{
+  "hypotheses": [
+    {
+      "id": "hyp_ OMEN  Cotton  Classics",
+      "segment_filter": {
+        "campaign_name": " OMEN  Cotton  Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 181730,
+        "mean_ctr": 0.010245969295108128,
+        "mean_roas": 9.839910313901346,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_ OMEN COTTON CLASSICS",
+      "segment_filter": {
+        "campaign_name": " OMEN COTTON CLASSICS"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 22171,
+        "mean_ctr": 0.0075774660592666096,
+        "mean_roas": 0.3223102828349328,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_ en Premium Modal",
+      "segment_filter": {
+        "campaign_name": " en Premium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 406432,
+        "mean_ctr": 0.014413235178332415,
+        "mean_roas": 4.660054213898472,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_ omen Summer Invisible",
+      "segment_filter": {
+        "campaign_name": " omen Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 108020,
+        "mean_ctr": 0.012784669505647103,
+        "mean_roas": 1.7669250645994832,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_-EN Signature Soft",
+      "segment_filter": {
+        "campaign_name": "-EN Signature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 472257,
+        "mean_ctr": 0.015121004029585586,
+        "mean_roas": 3.8130007347024453,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_-omen summer invisible",
+      "segment_filter": {
+        "campaign_name": "-omen summer invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 484962,
+        "mean_ctr": 0.01734981297503722,
+        "mean_roas": 23.361282367447593,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_-omen-Studio Sports",
+      "segment_filter": {
+        "campaign_name": "-omen-Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 282750,
+        "mean_ctr": 0.009563218390804597,
+        "mean_roas": 29.485342456564034,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_-omen_|_Studio_Sports",
+      "segment_filter": {
+        "campaign_name": "-omen_|_Studio_Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 369667,
+        "mean_ctr": 0.01143732061558105,
+        "mean_roas": 26.259139150943398,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_M-n Bold Colors Drop",
+      "segment_filter": {
+        "campaign_name": "M-n Bold Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 303822,
+        "mean_ctr": 0.007626175852966539,
+        "mean_roas": 0.7065712286744525,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_ME  Signature Soft",
+      "segment_filter": {
+        "campaign_name": "ME  Signature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 157611,
+        "mean_ctr": 0.020525217148549275,
+        "mean_roas": 1.8130842788838935,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_ME- PREMIUM MODAL",
+      "segment_filter": {
+        "campaign_name": "ME- PREMIUM MODAL"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 92535,
+        "mean_ctr": 0.01171448641054736,
+        "mean_roas": 1.4332770840364495,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN  Si-nature  Soft",
+      "segment_filter": {
+        "campaign_name": "MEN  Si-nature  Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 237891,
+        "mean_ctr": 0.01867662080532681,
+        "mean_roas": 0.9756932032885667,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN  Signature  Soft",
+      "segment_filter": {
+        "campaign_name": "MEN  Signature  Soft"
+      },
+      "validation": {
+        "sample_size": 57,
+        "total_impressions": 15539622,
+        "mean_ctr": 0.013953619369611307,
+        "mean_roas": 2.032443968926317,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN  Signture  Soft",
+      "segment_filter": {
+        "campaign_name": "MEN  Signture  Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 285644,
+        "mean_ctr": 0.005513856408676535,
+        "mean_roas": 0.3251098570185809,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN -ignature Soft",
+      "segment_filter": {
+        "campaign_name": "MEN -ignature Soft"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 511435,
+        "mean_ctr": 0.013639161771437334,
+        "mean_roas": 0.8685082597341736,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN B LD COLORS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN B LD COLORS DROP"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 42524,
+        "mean_ctr": 0.008959646317373718,
+        "mean_roas": 1.3963832416039537,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN BLD COLORS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN BLD COLORS DROP"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40658,
+        "mean_ctr": 0.010108711692655812,
+        "mean_roas": 0.401488035391112,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN BOL COLORS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN BOL COLORS DROP"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 122505,
+        "mean_ctr": 0.004522264397371536,
+        "mean_roas": 0.5543044139246052,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN BOLD  OLORS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD  OLORS DROP"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 223404,
+        "mean_ctr": 0.006118959374048809,
+        "mean_roas": 0.40713089781242284,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN BOLD COL RS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD COL RS DROP"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 166452,
+        "mean_ctr": 0.005382933217984764,
+        "mean_roas": 0.2771732504267252,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN BOLD COLORS DROP",
+      "segment_filter": {
+        "campaign_name": "MEN BOLD COLORS DROP"
+      },
+      "validation": {
+        "sample_size": 61,
+        "total_impressions": 16229885,
+        "mean_ctr": 0.008800264496578804,
+        "mean_roas": 2.361419811038126,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN COMF RTMAX LAUNCH",
+      "segment_filter": {
+        "campaign_name": "MEN COMF RTMAX LAUNCH"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 79419,
+        "mean_ctr": 0.016242964529898388,
+        "mean_roas": 3.7442369755647764,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN COMFORTMA LAUNCH",
+      "segment_filter": {
+        "campaign_name": "MEN COMFORTMA LAUNCH"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 43599,
+        "mean_ctr": 0.009541503245487281,
+        "mean_roas": 0.22057604773622677,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN COMFORTMAX  AUNCH",
+      "segment_filter": {
+        "campaign_name": "MEN COMFORTMAX  AUNCH"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 484047,
+        "mean_ctr": 0.017473509803800046,
+        "mean_roas": 9.554115299252103,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN COMFORTMAX LAUNCH",
+      "segment_filter": {
+        "campaign_name": "MEN COMFORTMAX LAUNCH"
+      },
+      "validation": {
+        "sample_size": 40,
+        "total_impressions": 9916109,
+        "mean_ctr": 0.015587890327041276,
+        "mean_roas": 11.550927641712283,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN PREM-UM MODAL",
+      "segment_filter": {
+        "campaign_name": "MEN PREM-UM MODAL"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 478089,
+        "mean_ctr": 0.014675091876198783,
+        "mean_roas": 19.610709578674378,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN PREMIUM -ODAL",
+      "segment_filter": {
+        "campaign_name": "MEN PREMIUM -ODAL"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 381178,
+        "mean_ctr": 0.013125101658542727,
+        "mean_roas": 89.3278570399193,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN PREMIUM MOD-L",
+      "segment_filter": {
+        "campaign_name": "MEN PREMIUM MOD-L"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 67126,
+        "mean_ctr": 0.005705687810982332,
+        "mean_roas": 0.33835339863904884,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN PREMIUM MODAL",
+      "segment_filter": {
+        "campaign_name": "MEN PREMIUM MODAL"
+      },
+      "validation": {
+        "sample_size": 52,
+        "total_impressions": 15730131,
+        "mean_ctr": 0.010689778620640796,
+        "mean_roas": 11.806258128196493,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN SIGATURE SOFT",
+      "segment_filter": {
+        "campaign_name": "MEN SIGATURE SOFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 25797,
+        "mean_ctr": 0.016319727100050394,
+        "mean_roas": 0.3626469472885855,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN SIGNATUR  SOFT",
+      "segment_filter": {
+        "campaign_name": "MEN SIGNATUR  SOFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 186194,
+        "mean_ctr": 0.014678238826170554,
+        "mean_roas": 1.6421717852876576,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN SIGNATURE S-FT",
+      "segment_filter": {
+        "campaign_name": "MEN SIGNATURE S-FT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 320385,
+        "mean_ctr": 0.014186057399690997,
+        "mean_roas": 1.4838620769688264,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN SIGNATURE SOFT",
+      "segment_filter": {
+        "campaign_name": "MEN SIGNATURE SOFT"
+      },
+      "validation": {
+        "sample_size": 54,
+        "total_impressions": 15803502,
+        "mean_ctr": 0.01456823773026595,
+        "mean_roas": 2.3464525172199098,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN SIGNATURE SOT",
+      "segment_filter": {
+        "campaign_name": "MEN SIGNATURE SOT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 377638,
+        "mean_ctr": 0.011767883528670314,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Si nature Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Si nature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 147761,
+        "mean_ctr": 0.016323657798742564,
+        "mean_roas": 1.701647108723314,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Sigature Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Sigature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 473684,
+        "mean_ctr": 0.01472289543239797,
+        "mean_roas": 1.5931789721178664,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Sign-ture Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Sign-ture Soft"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 507897,
+        "mean_ctr": 0.014076568155250671,
+        "mean_roas": 8.940069394291191,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signa-ure Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signa-ure Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 138882,
+        "mean_ctr": 0.021514667127489524,
+        "mean_roas": 0.8957200826889213,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signatre Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signatre Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 435189,
+        "mean_ctr": 0.014901571501117905,
+        "mean_roas": 2.965531686718724,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signatu e Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signatu e Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 233855,
+        "mean_ctr": 0.013162002095315473,
+        "mean_roas": 0.4854525139664805,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signatue Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signatue Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 178094,
+        "mean_ctr": 0.01659236133727133,
+        "mean_roas": 0.9335083998249335,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signature  oft",
+      "segment_filter": {
+        "campaign_name": "MEN Signature  oft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 398276,
+        "mean_ctr": 0.012330645080296077,
+        "mean_roas": 1.3867991390172199,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signature Sft",
+      "segment_filter": {
+        "campaign_name": "MEN Signature Sft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 209339,
+        "mean_ctr": 0.012735324043775885,
+        "mean_roas": 1.514176825768533,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signature Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signature Soft"
+      },
+      "validation": {
+        "sample_size": 164,
+        "total_impressions": 43747594,
+        "mean_ctr": 0.013972384142306152,
+        "mean_roas": 2.375533148398977,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signature Sot",
+      "segment_filter": {
+        "campaign_name": "MEN Signature Sot"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 388868,
+        "mean_ctr": 0.012317804499213101,
+        "mean_roas": 0.9537101707569663,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Signature-Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Signature-Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 62545,
+        "mean_ctr": 0.018898393156927012,
+        "mean_roas": 1.443551047336302,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN Sinature Soft",
+      "segment_filter": {
+        "campaign_name": "MEN Sinature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 321405,
+        "mean_ctr": 0.009806941397924736,
+        "mean_roas": 1.8989499777834942,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_MEN | ATHLEISURE COOLING",
+      "segment_filter": {
+        "campaign_name": "MEN | ATHLEISURE COOLING"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 14371513,
+        "mean_ctr": 0.022564094842052112,
+        "mean_roas": 20.781641002913442,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN | ATHLEISURECOOLING",
+      "segment_filter": {
+        "campaign_name": "MEN | ATHLEISURECOOLING"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 162622,
+        "mean_ctr": 0.022955073729261723,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN-SIGNATURE SOFT",
+      "segment_filter": {
+        "campaign_name": "MEN-SIGNATURE SOFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 370840,
+        "mean_ctr": 0.011023622047244094,
+        "mean_roas": 0.5861470922985204,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_ ignature_Soft",
+      "segment_filter": {
+        "campaign_name": "MEN_ ignature_Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 496057,
+        "mean_ctr": 0.02031419776356346,
+        "mean_roas": 15.262068258686071,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_Si nature_Soft",
+      "segment_filter": {
+        "campaign_name": "MEN_Si nature_Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 310376,
+        "mean_ctr": 0.014227904219398407,
+        "mean_roas": 2.393798449612403,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_Signa ure_Soft",
+      "segment_filter": {
+        "campaign_name": "MEN_Signa ure_Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 193660,
+        "mean_ctr": 0.01659609625116183,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_Signatu e_Soft",
+      "segment_filter": {
+        "campaign_name": "MEN_Signatu e_Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 334090,
+        "mean_ctr": 0.01355922056930767,
+        "mean_roas": 2.062658457080768,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_Signature_S ft",
+      "segment_filter": {
+        "campaign_name": "MEN_Signature_S ft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 123885,
+        "mean_ctr": 0.01186584332243613,
+        "mean_roas": 0.33040873100791784,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN_Signature_Soft",
+      "segment_filter": {
+        "campaign_name": "MEN_Signature_Soft"
+      },
+      "validation": {
+        "sample_size": 43,
+        "total_impressions": 10015869,
+        "mean_ctr": 0.015562832490487828,
+        "mean_roas": 2.2072850491908715,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MEN| ATHLEISURE COOLING",
+      "segment_filter": {
+        "campaign_name": "MEN| ATHLEISURE COOLING"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 95434,
+        "mean_ctr": 0.01697508225579982,
+        "mean_roas": 3.147699916838097,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Me   Premium  Modal",
+      "segment_filter": {
+        "campaign_name": "Me   Premium  Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 403636,
+        "mean_ctr": 0.006079735206968655,
+        "mean_roas": 2.3341393611974106,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Me  Premium Modal",
+      "segment_filter": {
+        "campaign_name": "Me  Premium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 510453,
+        "mean_ctr": 0.010529862690590515,
+        "mean_roas": 6.15915393654524,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Me- Premium Modal",
+      "segment_filter": {
+        "campaign_name": "Me- Premium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 205972,
+        "mean_ctr": 0.012365758452605208,
+        "mean_roas": 1.658730974320328,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Me- | Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Me- | Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 450720,
+        "mean_ctr": 0.017753816116435926,
+        "mean_roas": 16.329106508428453,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Me-_Bold_Colors_Drop",
+      "segment_filter": {
+        "campaign_name": "Me-_Bold_Colors_Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 60036,
+        "mean_ctr": 0.011593044173495902,
+        "mean_roas": 0.4230124743995532,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men   Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men   Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 76947,
+        "mean_ctr": 0.02149531495704836,
+        "mean_roas": 10.143435227210587,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men   old  Colors  Drop",
+      "segment_filter": {
+        "campaign_name": "Men   old  Colors  Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 436699,
+        "mean_ctr": 0.013194442854231405,
+        "mean_roas": 22.052980554670068,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  Bold  Colors  Drop",
+      "segment_filter": {
+        "campaign_name": "Men  Bold  Colors  Drop"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 14668981,
+        "mean_ctr": 0.009597079393132611,
+        "mean_roas": 2.960735684013531,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men  Bold  Coors  Drop",
+      "segment_filter": {
+        "campaign_name": "Men  Bold  Coors  Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 21626,
+        "mean_ctr": 0.007167298622029039,
+        "mean_roas": 0.16723302322990363,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men  C mfortMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  C mfortMax  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 414433,
+        "mean_ctr": 0.018483084117336217,
+        "mean_roas": 6.436591121694021,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  C-mfortMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  C-mfortMax  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 501720,
+        "mean_ctr": 0.01364306784660767,
+        "mean_roas": 20.655657242190294,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  Co fortMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  Co fortMax  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 142442,
+        "mean_ctr": 0.0108535403883686,
+        "mean_roas": 3.4178918292791587,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  CofortMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  CofortMax  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 73664,
+        "mean_ctr": 0.023172784535186793,
+        "mean_roas": 7.4631322112402305,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  Comf rtMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  Comf rtMax  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 333371,
+        "mean_ctr": 0.014614348578610617,
+        "mean_roas": 3.6415386056971513,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  ComfortMa-  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  ComfortMa-  Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 218547,
+        "mean_ctr": 0.015429175417644717,
+        "mean_roas": 3.167350206466474,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  ComfortMax  Launch",
+      "segment_filter": {
+        "campaign_name": "Men  ComfortMax  Launch"
+      },
+      "validation": {
+        "sample_size": 51,
+        "total_impressions": 13092448,
+        "mean_ctr": 0.013617041566257001,
+        "mean_roas": 10.886888229705754,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  Premium  Modal",
+      "segment_filter": {
+        "campaign_name": "Men  Premium  Modal"
+      },
+      "validation": {
+        "sample_size": 51,
+        "total_impressions": 13285756,
+        "mean_ctr": 0.011261378408269011,
+        "mean_roas": 8.206052957220264,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  old  Colors  Drop",
+      "segment_filter": {
+        "campaign_name": "Men  old  Colors  Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 409168,
+        "mean_ctr": 0.010076545575411567,
+        "mean_roas": 4.318529053230394,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  remium  Modal",
+      "segment_filter": {
+        "campaign_name": "Men  remium  Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 474405,
+        "mean_ctr": 0.013121699813450533,
+        "mean_roas": 6.746178893820179,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  remium Modal",
+      "segment_filter": {
+        "campaign_name": "Men  remium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 385452,
+        "mean_ctr": 0.010426719799093013,
+        "mean_roas": 6.28859970177579,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  |  Athlei ure  Cooling",
+      "segment_filter": {
+        "campaign_name": "Men  |  Athlei ure  Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 83906,
+        "mean_ctr": 0.022048482826019594,
+        "mean_roas": 29.917496443812233,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  |  Athleisure  Co ling",
+      "segment_filter": {
+        "campaign_name": "Men  |  Athleisure  Co ling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 365385,
+        "mean_ctr": 0.02502565786772856,
+        "mean_roas": 24.008165327942976,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  |  Athleisure  Coling",
+      "segment_filter": {
+        "campaign_name": "Men  |  Athleisure  Coling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 57316,
+        "mean_ctr": 0.020029311187103077,
+        "mean_roas": 1.362903757054083,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  |  Athleisure  Cooling",
+      "segment_filter": {
+        "campaign_name": "Men  |  Athleisure  Cooling"
+      },
+      "validation": {
+        "sample_size": 45,
+        "total_impressions": 12467787,
+        "mean_ctr": 0.022282834889649644,
+        "mean_roas": 20.00121384690108,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men  |  Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men  |  Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 321485,
+        "mean_ctr": 0.025889232779134328,
+        "mean_roas": 31.85902845396516,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men -old Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men -old Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 290072,
+        "mean_ctr": 0.008339308861248241,
+        "mean_roas": 2.144072725046678,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men -remium Modal",
+      "segment_filter": {
+        "campaign_name": "Men -remium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 67456,
+        "mean_ctr": 0.0112073055028463,
+        "mean_roas": 1.350768517291639,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men -|  Athleisure  Cooling",
+      "segment_filter": {
+        "campaign_name": "Men -|  Athleisure  Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 120672,
+        "mean_ctr": 0.0,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men B ld Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men B ld Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 310514,
+        "mean_ctr": 0.011996238494882678,
+        "mean_roas": 5.9781731351315,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men B-ld Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men B-ld Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 137218,
+        "mean_ctr": 0.006624495328601204,
+        "mean_roas": 0.9135719298245614,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bol Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bol Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 294602,
+        "mean_ctr": 0.009592602901541741,
+        "mean_roas": 1.421192243630606,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bold -olors Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold -olors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 208052,
+        "mean_ctr": 0.00927172053140561,
+        "mean_roas": 2.171722079544666,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bold C-lors Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold C-lors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 207047,
+        "mean_ctr": 0.01304051737045212,
+        "mean_roas": 0.6239101057035487,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Col-rs Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Col-rs Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 367632,
+        "mean_ctr": 0.008391543717630675,
+        "mean_roas": 15.990214592274677,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colo s Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colo s Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 466682,
+        "mean_ctr": 0.011618189688053107,
+        "mean_roas": 3.742497438149612,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colo-s Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colo-s Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 287626,
+        "mean_ctr": 0.012331986677143235,
+        "mean_roas": 4.760019083969466,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Color- Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Color- Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 14882,
+        "mean_ctr": 0.011356000537562156,
+        "mean_roas": 0.3220789850624105,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colors  rop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors  rop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 210987,
+        "mean_ctr": 0.01177797684217511,
+        "mean_roas": 0.7411556177201147,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colors Dr p",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors Dr p"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 30932,
+        "mean_ctr": 0.008890469416785207,
+        "mean_roas": 0.23506908217142491,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors Drop"
+      },
+      "validation": {
+        "sample_size": 204,
+        "total_impressions": 53148455,
+        "mean_ctr": 0.008551423479989061,
+        "mean_roas": 2.748802874646325,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Bold Colors-Drop",
+      "segment_filter": {
+        "campaign_name": "Men Bold Colors-Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 508533,
+        "mean_ctr": 0.012567522658313226,
+        "mean_roas": 7.03553391598875,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men BoldColors Drop",
+      "segment_filter": {
+        "campaign_name": "Men BoldColors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 173827,
+        "mean_ctr": 0.006098016993907736,
+        "mean_roas": 0.50751676817516,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Comf-rtMax Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comf-rtMax Launch"
+      },
+      "validation": {
+        "sample_size": 3,
+        "total_impressions": 1186683,
+        "mean_ctr": 0.015410949002685819,
+        "mean_roas": 10.719938355380371,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfo tMax Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comfo tMax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 359404,
+        "mean_ctr": 0.014838454775127711,
+        "mean_roas": 5.713231325758128,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfo tmax Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comfo tmax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 313219,
+        "mean_ctr": 0.022259186064702334,
+        "mean_roas": 24.304660529344076,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComforMax Launch",
+      "segment_filter": {
+        "campaign_name": "Men ComforMax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 124070,
+        "mean_ctr": 0.01950511807850407,
+        "mean_roas": 20.877585080908496,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfort-ax Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comfort-ax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 330875,
+        "mean_ctr": 0.016927842840952022,
+        "mean_roas": 28.2487861947938,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComfortMax L unch",
+      "segment_filter": {
+        "campaign_name": "Men ComfortMax L unch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 343595,
+        "mean_ctr": 0.015445509975407093,
+        "mean_roas": 5.526134159550619,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComfortMax Lau-ch",
+      "segment_filter": {
+        "campaign_name": "Men ComfortMax Lau-ch"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 302849,
+        "mean_ctr": 0.011667050029205369,
+        "mean_roas": 4.07383378848785,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComfortMax Launch",
+      "segment_filter": {
+        "campaign_name": "Men ComfortMax Launch"
+      },
+      "validation": {
+        "sample_size": 155,
+        "total_impressions": 39561220,
+        "mean_ctr": 0.014800196329694633,
+        "mean_roas": 12.053393269590643,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComfortMax Lunch",
+      "segment_filter": {
+        "campaign_name": "Men ComfortMax Lunch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 157562,
+        "mean_ctr": 0.012934590827737652,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men ComfortMax_Launch",
+      "segment_filter": {
+        "campaign_name": "Men ComfortMax_Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 294124,
+        "mean_ctr": 0.01641484543933851,
+        "mean_roas": 6.644219035997559,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfortma- Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comfortma- Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 386845,
+        "mean_ctr": 0.014473497137096253,
+        "mean_roas": 37.112324723247234,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfortmax Lau ch",
+      "segment_filter": {
+        "campaign_name": "Men Comfortmax Lau ch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 368092,
+        "mean_ctr": 0.023341990589309195,
+        "mean_roas": 22.61064680232558,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfortmax Launch",
+      "segment_filter": {
+        "campaign_name": "Men Comfortmax Launch"
+      },
+      "validation": {
+        "sample_size": 55,
+        "total_impressions": 13245493,
+        "mean_ctr": 0.01632664941658443,
+        "mean_roas": 8.357796579955098,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Comfortmax Lunch",
+      "segment_filter": {
+        "campaign_name": "Men Comfortmax Lunch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 338152,
+        "mean_ctr": 0.019189595211620808,
+        "mean_roas": 5.37995038595696,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Pr-mium Modal",
+      "segment_filter": {
+        "campaign_name": "Men Pr-mium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 510469,
+        "mean_ctr": 0.0,
+        "mean_roas": 20.282087593257806,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Pre ium Modal",
+      "segment_filter": {
+        "campaign_name": "Men Pre ium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 123022,
+        "mean_ctr": 0.010851717578969616,
+        "mean_roas": 4.502903060987506,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Prem um Modal",
+      "segment_filter": {
+        "campaign_name": "Men Prem um Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 37208,
+        "mean_ctr": 0.0077402709094818315,
+        "mean_roas": 0.333033303330333,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Premiu- Modal",
+      "segment_filter": {
+        "campaign_name": "Men Premiu- Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 222084,
+        "mean_ctr": 0.0,
+        "mean_roas": 4.031911911911912,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Premium -odal",
+      "segment_filter": {
+        "campaign_name": "Men Premium -odal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 118261,
+        "mean_ctr": 0.00655330159562324,
+        "mean_roas": 1.5877917480918846,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Premium M-dal",
+      "segment_filter": {
+        "campaign_name": "Men Premium M-dal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 336441,
+        "mean_ctr": 0.00979369339646476,
+        "mean_roas": 2.6538429511199935,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men Premium Mod-l",
+      "segment_filter": {
+        "campaign_name": "Men Premium Mod-l"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 122852,
+        "mean_ctr": 0.0100608862696578,
+        "mean_roas": 2.714872722043022,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Premium Modal",
+      "segment_filter": {
+        "campaign_name": "Men Premium Modal"
+      },
+      "validation": {
+        "sample_size": 234,
+        "total_impressions": 57021223,
+        "mean_ctr": 0.010395705222588536,
+        "mean_roas": 9.547024892633177,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Sig-ature Soft",
+      "segment_filter": {
+        "campaign_name": "Men Sig-ature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 276076,
+        "mean_ctr": 0.01280082296179313,
+        "mean_roas": 5.34559526084464,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Sigature Soft",
+      "segment_filter": {
+        "campaign_name": "Men Sigature Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 335157,
+        "mean_ctr": 0.014339548331080658,
+        "mean_roas": 3.896432299079609,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Signature Soft",
+      "segment_filter": {
+        "campaign_name": "Men Signature Soft"
+      },
+      "validation": {
+        "sample_size": 41,
+        "total_impressions": 9789201,
+        "mean_ctr": 0.014000407031862677,
+        "mean_roas": 2.24326222659019,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men Signture Soft",
+      "segment_filter": {
+        "campaign_name": "Men Signture Soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 206825,
+        "mean_ctr": 0.014446996252870785,
+        "mean_roas": 5.351507450617997,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men remium Modal",
+      "segment_filter": {
+        "campaign_name": "Men remium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 367130,
+        "mean_ctr": 0.008443875466456023,
+        "mean_roas": 2.6077011131286016,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men | Ath eisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Ath eisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 330406,
+        "mean_ctr": 0.022644867223960825,
+        "mean_roas": 11.269290174532777,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | Athlei ure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Athlei ure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 365266,
+        "mean_ctr": 0.01865216034342096,
+        "mean_roas": 85.3288523148439,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | Athlei-ure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Athlei-ure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 38910,
+        "mean_ctr": 0.02541763042919558,
+        "mean_roas": 10.85345127812217,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | Athleis re Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Athleis re Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 180813,
+        "mean_ctr": 0.014031070774778363,
+        "mean_roas": 26.069552617279477,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | Athleisur- Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Athleisur- Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 80792,
+        "mean_ctr": 0.020398059213783543,
+        "mean_roas": 5.85045875052347,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 146,
+        "total_impressions": 37567924,
+        "mean_ctr": 0.0201568542457794,
+        "mean_roas": 20.440210927851336,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men | thleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men | thleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 387995,
+        "mean_ctr": 0.024693617185788476,
+        "mean_roas": 34.36844344841281,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men |Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men |Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 324005,
+        "mean_ctr": 0.020789802626502676,
+        "mean_roas": 22.89206231454006,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men- Premium  Modal",
+      "segment_filter": {
+        "campaign_name": "Men- Premium  Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 301636,
+        "mean_ctr": 0.008135633677677731,
+        "mean_roas": 13.828397015600272,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men-Athleisure Cooli-g",
+      "segment_filter": {
+        "campaign_name": "Men-Athleisure Cooli-g"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 460080,
+        "mean_ctr": 0.025554251434533125,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men-Athleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men-Athleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 58,
+        "total_impressions": 15608606,
+        "mean_ctr": 0.018997156746166248,
+        "mean_roas": 20.738004061955714,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men-Bold Colors Drop",
+      "segment_filter": {
+        "campaign_name": "Men-Bold Colors Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 191771,
+        "mean_ctr": 0.013990645092323657,
+        "mean_roas": 0.8733139105923304,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men-Comfortmax Launch",
+      "segment_filter": {
+        "campaign_name": "Men-Comfortmax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 345771,
+        "mean_ctr": 0.017650410242617223,
+        "mean_roas": 2.740031157314479,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men-Premium Modal",
+      "segment_filter": {
+        "campaign_name": "Men-Premium Modal"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 285548,
+        "mean_ctr": 0.009854735456035412,
+        "mean_roas": 10.065953093026916,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men-thleisure Cooling",
+      "segment_filter": {
+        "campaign_name": "Men-thleisure Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 198524,
+        "mean_ctr": 0.028475146581773487,
+        "mean_roas": 5.498921982662814,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_MenComfortmax Launch",
+      "segment_filter": {
+        "campaign_name": "MenComfortmax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 363786,
+        "mean_ctr": 0.01713919722034383,
+        "mean_roas": 3.142770922024034,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_Bold_Co ors_Drop",
+      "segment_filter": {
+        "campaign_name": "Men_Bold_Co ors_Drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 300567,
+        "mean_ctr": 0.01299876566622417,
+        "mean_roas": 8.780760969622584,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_Bold_Colors_Drop",
+      "segment_filter": {
+        "campaign_name": "Men_Bold_Colors_Drop"
+      },
+      "validation": {
+        "sample_size": 49,
+        "total_impressions": 12565923,
+        "mean_ctr": 0.009126803364310402,
+        "mean_roas": 2.664008395065987,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Men_Co fortMax_Launch",
+      "segment_filter": {
+        "campaign_name": "Men_Co fortMax_Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 56204,
+        "mean_ctr": 0.022685218133940643,
+        "mean_roas": 3.1887421531088016,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_Com-ortMax_Launch",
+      "segment_filter": {
+        "campaign_name": "Men_Com-ortMax_Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 253112,
+        "mean_ctr": 0.016794936628844147,
+        "mean_roas": 6.234054072344602,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_Comf-rtMax_Launch",
+      "segment_filter": {
+        "campaign_name": "Men_Comf-rtMax_Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 442839,
+        "mean_ctr": 0.01467124620911889,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_ComfortMax_Launch",
+      "segment_filter": {
+        "campaign_name": "Men_ComfortMax_Launch"
+      },
+      "validation": {
+        "sample_size": 69,
+        "total_impressions": 17395084,
+        "mean_ctr": 0.014732287500797494,
+        "mean_roas": 10.7003327824701,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_Premium_Modal",
+      "segment_filter": {
+        "campaign_name": "Men_Premium_Modal"
+      },
+      "validation": {
+        "sample_size": 48,
+        "total_impressions": 12893928,
+        "mean_ctr": 0.010057195197027422,
+        "mean_roas": 7.066961142364922,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_|_Athleisure_Cooling",
+      "segment_filter": {
+        "campaign_name": "Men_|_Athleisure_Cooling"
+      },
+      "validation": {
+        "sample_size": 57,
+        "total_impressions": 16888868,
+        "mean_ctr": 0.020641955727518823,
+        "mean_roas": 20.285712039723084,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_|_Athleiure_Cooling",
+      "segment_filter": {
+        "campaign_name": "Men_|_Athleiure_Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 146013,
+        "mean_ctr": 0.02122413757679111,
+        "mean_roas": 13.153346016348546,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Men_|_Atleisure_Cooling",
+      "segment_filter": {
+        "campaign_name": "Men_|_Atleisure_Cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 284604,
+        "mean_ctr": 0.017206363930232886,
+        "mean_roas": 7.9154491017964075,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Mn ComfortMax Launch",
+      "segment_filter": {
+        "campaign_name": "Mn ComfortMax Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 481593,
+        "mean_ctr": 0.015143492534152283,
+        "mean_roas": 8.290133638536371,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_W MEN Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "W MEN Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 516847,
+        "mean_ctr": 0.008845944737997899,
+        "mean_roas": 15.443971179491264,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_W MEN FIT & LIFT",
+      "segment_filter": {
+        "campaign_name": "W MEN FIT & LIFT"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 936861,
+        "mean_ctr": 0.015525074525968852,
+        "mean_roas": 4.855580687346761,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_W men Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "W men Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 483876,
+        "mean_ctr": 0.02105911431854442,
+        "mean_roas": 19.51568773234201,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_W men Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "W men Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 271270,
+        "mean_ctr": 0.008323810225974122,
+        "mean_roas": 1.0644824562624393,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_W men-Studio Sports",
+      "segment_filter": {
+        "campaign_name": "W men-Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 469855,
+        "mean_ctr": 0.01162273467346309,
+        "mean_roas": 38.05004020243106,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_W-men  |  Studio  Sports",
+      "segment_filter": {
+        "campaign_name": "W-men  |  Studio  Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 234642,
+        "mean_ctr": 0.018065819418518425,
+        "mean_roas": 5.622335456475583,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_W-men Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "W-men Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 168985,
+        "mean_ctr": 0.02055803769565346,
+        "mean_roas": 4.757378383879503,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WMEN Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "WMEN Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 326703,
+        "mean_ctr": 0.012659816408175009,
+        "mean_roas": 10.964991466810384,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WMEN Seamless Everyday",
+      "segment_filter": {
+        "campaign_name": "WMEN Seamless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 222142,
+        "mean_ctr": 0.009822545939084009,
+        "mean_roas": 31.144606078064232,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOEN  Cotton  Classics",
+      "segment_filter": {
+        "campaign_name": "WOEN  Cotton  Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 225783,
+        "mean_ctr": 0.005438850577767148,
+        "mean_roas": 2.6739841624117164,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOEN FIT & LIFT",
+      "segment_filter": {
+        "campaign_name": "WOEN FIT & LIFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 282108,
+        "mean_ctr": 0.006851985764317212,
+        "mean_roas": 1.1849070100143062,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOM N FIT & LIFT",
+      "segment_filter": {
+        "campaign_name": "WOM N FIT & LIFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 132314,
+        "mean_ctr": 0.022847166588569615,
+        "mean_roas": 0.7235067324481735,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOME SEAMLESS EVERYDAY",
+      "segment_filter": {
+        "campaign_name": "WOME SEAMLESS EVERYDAY"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 19041,
+        "mean_ctr": 0.011343942019851899,
+        "mean_roas": 1.4331345688960515,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  -eamless  Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN  -eamless  Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 88153,
+        "mean_ctr": 0.00972173380372761,
+        "mean_roas": 12.67899696285336,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Cotto-  Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Cotto-  Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 262889,
+        "mean_ctr": 0.015466603775738049,
+        "mean_roas": 25.933952639209583,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Cotton  Cl-ssics",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Cotton  Cl-ssics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 106615,
+        "mean_ctr": 0.012202785724335224,
+        "mean_roas": 12.448991760624459,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Cotton  Cla-sics",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Cotton  Cla-sics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 133791,
+        "mean_ctr": 0.012377514182568335,
+        "mean_roas": 2.999850735129487,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Cotton  Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Cotton  Classics"
+      },
+      "validation": {
+        "sample_size": 52,
+        "total_impressions": 12517058,
+        "mean_ctr": 0.010230650242280663,
+        "mean_roas": 12.70349765591591,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Seamles   Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamles   Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 109081,
+        "mean_ctr": 0.009103326885525436,
+        "mean_roas": 4.515565161339248,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Seamless  Eve yday",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamless  Eve yday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 435301,
+        "mean_ctr": 0.012377642137279722,
+        "mean_roas": 5.775744934961531,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Seamless  Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamless  Everyday"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 14988598,
+        "mean_ctr": 0.007333291481925424,
+        "mean_roas": 7.5171408362288155,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN  Seamless- Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN  Seamless- Everyday"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 448721,
+        "mean_ctr": 0.010650615546156263,
+        "mean_roas": 2.929701518666025,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN C tton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN C tton Classics"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 740485,
+        "mean_ctr": 0.01092586832364257,
+        "mean_roas": 10.943252785467227,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN COTTON CLASS-CS",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON CLASS-CS"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 312305,
+        "mean_ctr": 0.012295672499639775,
+        "mean_roas": 20.10484805030059,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN COTTON CLASSICS",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON CLASSICS"
+      },
+      "validation": {
+        "sample_size": 47,
+        "total_impressions": 13068292,
+        "mean_ctr": 0.010720623162669992,
+        "mean_roas": 9.996782811657138,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN COTTON CLASSIS",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON CLASSIS"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 346839,
+        "mean_ctr": 0.009612529156179092,
+        "mean_roas": 4.690904717434983,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN COTTON LASSICS",
+      "segment_filter": {
+        "campaign_name": "WOMEN COTTON LASSICS"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 258390,
+        "mean_ctr": 0.010197763071326289,
+        "mean_roas": 11.186554132712457,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Cot-on Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN Cot-on Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 452982,
+        "mean_ctr": 0.0095169344477264,
+        "mean_roas": 4.667916602731318,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Coton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN Coton Classics"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 816211,
+        "mean_ctr": 0.01228100604994925,
+        "mean_roas": 12.028193908555847,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Cotton Cla-sics",
+      "segment_filter": {
+        "campaign_name": "WOMEN Cotton Cla-sics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 18721,
+        "mean_ctr": 0.011003685700550185,
+        "mean_roas": 1.6405684286748732,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 155,
+        "total_impressions": 41269197,
+        "mean_ctr": 0.010292810066642668,
+        "mean_roas": 13.295156243529561,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Cotton Classis",
+      "segment_filter": {
+        "campaign_name": "WOMEN Cotton Classis"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 28107,
+        "mean_ctr": 0.012559148966449638,
+        "mean_roas": 0.908574882400862,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Ctton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN Ctton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 462747,
+        "mean_ctr": 0.01698120139082479,
+        "mean_roas": 16.36575632064889,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN FIT  LIFT",
+      "segment_filter": {
+        "campaign_name": "WOMEN FIT  LIFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 177266,
+        "mean_ctr": 0.020833098281678383,
+        "mean_roas": 1.06088829453603,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN FIT & -IFT",
+      "segment_filter": {
+        "campaign_name": "WOMEN FIT & -IFT"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 240537,
+        "mean_ctr": 0.02071422947522053,
+        "mean_roas": 1.9186751647443443,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN FIT & LIFT",
+      "segment_filter": {
+        "campaign_name": "WOMEN FIT & LIFT"
+      },
+      "validation": {
+        "sample_size": 63,
+        "total_impressions": 17506526,
+        "mean_ctr": 0.017780414599417385,
+        "mean_roas": 5.5112094526087,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SEAM ESS EVERYDAY",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAM ESS EVERYDAY"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 381636,
+        "mean_ctr": 0.009220828223752477,
+        "mean_roas": 3.324886768280996,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EV RYDAY",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EV RYDAY"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 231358,
+        "mean_ctr": 0.007875240968542259,
+        "mean_roas": 7.643591428947022,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EVE YDAY",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EVE YDAY"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 76426,
+        "mean_ctr": 0.007510533064663858,
+        "mean_roas": 2.964709642074507,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EVERYDAY",
+      "segment_filter": {
+        "campaign_name": "WOMEN SEAMLESS EVERYDAY"
+      },
+      "validation": {
+        "sample_size": 49,
+        "total_impressions": 14359473,
+        "mean_ctr": 0.0080458506579468,
+        "mean_roas": 13.368176941794813,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SUMMER I VISIBLE",
+      "segment_filter": {
+        "campaign_name": "WOMEN SUMMER I VISIBLE"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 469340,
+        "mean_ctr": 0.013672391017173052,
+        "mean_roas": 19.084072172966245,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SUMMER INVISIBE",
+      "segment_filter": {
+        "campaign_name": "WOMEN SUMMER INVISIBE"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 83497,
+        "mean_ctr": 0.012431584368300658,
+        "mean_roas": 1.04115548739832,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SUMMER INVISIBLE",
+      "segment_filter": {
+        "campaign_name": "WOMEN SUMMER INVISIBLE"
+      },
+      "validation": {
+        "sample_size": 57,
+        "total_impressions": 13940883,
+        "mean_ctr": 0.010491697883605097,
+        "mean_roas": 6.841043841258795,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN SUMMER INVSIBLE",
+      "segment_filter": {
+        "campaign_name": "WOMEN SUMMER INVSIBLE"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 16115,
+        "mean_ctr": 0.01067328575860999,
+        "mean_roas": 0.4359409321241382,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Seamless E eryday",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless E eryday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 115664,
+        "mean_ctr": 0.010781228385668834,
+        "mean_roas": 14.858124766529698,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Seamless Eeryday",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Eeryday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 377449,
+        "mean_ctr": 0.009598647764333725,
+        "mean_roas": 16.499431797353274,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Seamless Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Everyday"
+      },
+      "validation": {
+        "sample_size": 166,
+        "total_impressions": 43874355,
+        "mean_ctr": 0.008431513359579356,
+        "mean_roas": 10.989096238237122,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Seamless Everydy",
+      "segment_filter": {
+        "campaign_name": "WOMEN Seamless Everydy"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 463408,
+        "mean_ctr": 0.005261022684114215,
+        "mean_roas": 13.918750405923232,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN Semless Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN Semless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 97354,
+        "mean_ctr": 0.0,
+        "mean_roas": 3.260679594121258,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN eamless Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN eamless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40709,
+        "mean_ctr": 0.008646736593873591,
+        "mean_roas": 2.162099437650629,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN otton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN otton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 305171,
+        "mean_ctr": 0.010721857581487101,
+        "mean_roas": 6.304778460543337,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN | STUDIO SPORTS",
+      "segment_filter": {
+        "campaign_name": "WOMEN | STUDIO SPORTS"
+      },
+      "validation": {
+        "sample_size": 44,
+        "total_impressions": 12018159,
+        "mean_ctr": 0.01115975408914442,
+        "mean_roas": 18.02796215272849,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN | SUDIO SPORTS",
+      "segment_filter": {
+        "campaign_name": "WOMEN | SUDIO SPORTS"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 207501,
+        "mean_ctr": 0.009252967455578527,
+        "mean_roas": 7.935846933033202,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN-FIT & LIFT",
+      "segment_filter": {
+        "campaign_name": "WOMEN-FIT & LIFT"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 138931,
+        "mean_ctr": 0.02523554858167004,
+        "mean_roas": 11.918567759480284,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMENSeamless Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMENSeamless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 174848,
+        "mean_ctr": 0.009093612737920937,
+        "mean_roas": 11.508352882633115,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_Cot-on_Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Cot-on_Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 512834,
+        "mean_ctr": 0.0,
+        "mean_roas": 3.270009151795,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_Cotton_Clas ics",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Cotton_Clas ics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 144887,
+        "mean_ctr": 0.014293898003271514,
+        "mean_roas": 15.878452549575073,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_Cotton_Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Cotton_Classics"
+      },
+      "validation": {
+        "sample_size": 48,
+        "total_impressions": 13912457,
+        "mean_ctr": 0.010032343789777113,
+        "mean_roas": 12.89072226260156,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_Seamless_Ever-day",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Seamless_Ever-day"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 142145,
+        "mean_ctr": 0.008118470575820465,
+        "mean_roas": 6.36226976553281,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_Seamless_Everyday",
+      "segment_filter": {
+        "campaign_name": "WOMEN_Seamless_Everyday"
+      },
+      "validation": {
+        "sample_size": 55,
+        "total_impressions": 12568757,
+        "mean_ctr": 0.008009497644792675,
+        "mean_roas": 6.072792086545937,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WOMEN_otton_Classics",
+      "segment_filter": {
+        "campaign_name": "WOMEN_otton_Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 386204,
+        "mean_ctr": 0.012004018601568084,
+        "mean_roas": 14.376894547790789,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMN Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "WOMN Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 209039,
+        "mean_ctr": 0.011500246365510742,
+        "mean_roas": 6.541273518277869,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_WOMN_Cotton_Classics",
+      "segment_filter": {
+        "campaign_name": "WOMN_Cotton_Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 243469,
+        "mean_ctr": 0.0060048712567103,
+        "mean_roas": 9.730484910139031,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Wmen | Studio Sports",
+      "segment_filter": {
+        "campaign_name": "Wmen | Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 182623,
+        "mean_ctr": 0.0062149893496438015,
+        "mean_roas": 1.9459186875252141,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Wmen_Fit_&_Lift",
+      "segment_filter": {
+        "campaign_name": "Wmen_Fit_&_Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 177675,
+        "mean_ctr": 0.012759251442240044,
+        "mean_roas": 2.5993589743589745,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wo en  Fit  &  Lift",
+      "segment_filter": {
+        "campaign_name": "Wo en  Fit  &  Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 232292,
+        "mean_ctr": 0.022329654056101805,
+        "mean_roas": 2.793066185069501,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wo en Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Wo en Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 283119,
+        "mean_ctr": 0.018854262695191776,
+        "mean_roas": 2.927200627376707,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wo-en  |  Studio  Sports",
+      "segment_filter": {
+        "campaign_name": "Wo-en  |  Studio  Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 253623,
+        "mean_ctr": 0.012404237786005213,
+        "mean_roas": 21.557836667714113,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wo-en Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Wo-en Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 513751,
+        "mean_ctr": 0.017621376892697046,
+        "mean_roas": 11.404684268385845,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Woen Fit and Lift",
+      "segment_filter": {
+        "campaign_name": "Woen Fit and Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 277850,
+        "mean_ctr": 0.01824365664927119,
+        "mean_roas": 3.1540098983555955,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wom n  Fit  &  Lift",
+      "segment_filter": {
+        "campaign_name": "Wom n  Fit  &  Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 266731,
+        "mean_ctr": 0.022385849413828915,
+        "mean_roas": 2.7498510803444107,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wom n Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Wom n Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 585307,
+        "mean_ctr": 0.02190152088080998,
+        "mean_roas": 11.891174777420995,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wom n-Studio Sports",
+      "segment_filter": {
+        "campaign_name": "Wom n-Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 264474,
+        "mean_ctr": 0.012008741880109197,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wom-n Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "Wom-n Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 131808,
+        "mean_ctr": 0.01227543092983734,
+        "mean_roas": 2.3520208439247585,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wom-n Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Wom-n Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 74945,
+        "mean_ctr": 0.0,
+        "mean_roas": 0.5248963730569949,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Wome  Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Wome  Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 354779,
+        "mean_ctr": 0.016714630798327974,
+        "mean_roas": 8.579577464788732,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Wome  Fit and Lift",
+      "segment_filter": {
+        "campaign_name": "Wome  Fit and Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 390575,
+        "mean_ctr": 0.018682711387057543,
+        "mean_roas": 2.906108386616177,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  -it  &  Lift",
+      "segment_filter": {
+        "campaign_name": "Women  -it  &  Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 185582,
+        "mean_ctr": 0.016569494886357512,
+        "mean_roas": 2.1355384049981625,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  Fit     Lift",
+      "segment_filter": {
+        "campaign_name": "Women  Fit     Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 434420,
+        "mean_ctr": 0.015003913263661893,
+        "mean_roas": 11.363978648365265,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  Fit  &  Lft",
+      "segment_filter": {
+        "campaign_name": "Women  Fit  &  Lft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 343448,
+        "mean_ctr": 0.015440474249376907,
+        "mean_roas": 2.1246628627190547,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  Fit  &  Lift",
+      "segment_filter": {
+        "campaign_name": "Women  Fit  &  Lift"
+      },
+      "validation": {
+        "sample_size": 61,
+        "total_impressions": 13898552,
+        "mean_ctr": 0.017500933181253838,
+        "mean_roas": 5.498718544134395,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  it & Lift",
+      "segment_filter": {
+        "campaign_name": "Women  it & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 234283,
+        "mean_ctr": 0.025324073876465642,
+        "mean_roas": 20.686037126715092,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  |  Studio  Sports",
+      "segment_filter": {
+        "campaign_name": "Women  |  Studio  Sports"
+      },
+      "validation": {
+        "sample_size": 49,
+        "total_impressions": 13298797,
+        "mean_ctr": 0.0107977137939107,
+        "mean_roas": 16.240981933725045,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women  |  Studio Sports",
+      "segment_filter": {
+        "campaign_name": "Women  |  Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 429047,
+        "mean_ctr": 0.01024596372891548,
+        "mean_roas": 30.917929292929294,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women -it & Lift",
+      "segment_filter": {
+        "campaign_name": "Women -it & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 296397,
+        "mean_ctr": 0.020364578588852114,
+        "mean_roas": 3.4250285844957697,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women C-tton Classics",
+      "segment_filter": {
+        "campaign_name": "Women C-tton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 52394,
+        "mean_ctr": 0.007958926594648242,
+        "mean_roas": 0.8345030131970401,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Co-ton Classics",
+      "segment_filter": {
+        "campaign_name": "Women Co-ton Classics"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 221005,
+        "mean_ctr": 0.00902227360942343,
+        "mean_roas": 1.895385400052193,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Cottn Classics",
+      "segment_filter": {
+        "campaign_name": "Women Cottn Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 217209,
+        "mean_ctr": 0.008360611208559498,
+        "mean_roas": 5.4016696452615856,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Cotton Clas ics",
+      "segment_filter": {
+        "campaign_name": "Women Cotton Clas ics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 461142,
+        "mean_ctr": 0.013130445719539752,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Cotton Classics",
+      "segment_filter": {
+        "campaign_name": "Women Cotton Classics"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 15926665,
+        "mean_ctr": 0.010013701173142094,
+        "mean_roas": 15.43753045537864,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Cotton Classis",
+      "segment_filter": {
+        "campaign_name": "Women Cotton Classis"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 298357,
+        "mean_ctr": 0.013078292113139628,
+        "mean_roas": 4.899033577326839,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Cotton lassics",
+      "segment_filter": {
+        "campaign_name": "Women Cotton lassics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 474673,
+        "mean_ctr": 0.008294130906961213,
+        "mean_roas": 10.99931855677498,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women F t & Lift",
+      "segment_filter": {
+        "campaign_name": "Women F t & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 505885,
+        "mean_ctr": 0.01795862696067288,
+        "mean_roas": 1.7589450479296964,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Fi  & Lift",
+      "segment_filter": {
+        "campaign_name": "Women Fi  & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 283469,
+        "mean_ctr": 0.0172399803858623,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Fit  Lift",
+      "segment_filter": {
+        "campaign_name": "Women Fit  Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 270275,
+        "mean_ctr": 0.008321154379798353,
+        "mean_roas": 2.518739054290718,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Fit & Lift",
+      "segment_filter": {
+        "campaign_name": "Women Fit & Lift"
+      },
+      "validation": {
+        "sample_size": 143,
+        "total_impressions": 35799832,
+        "mean_ctr": 0.016836186806971853,
+        "mean_roas": 5.534181855784809,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Fit & ift",
+      "segment_filter": {
+        "campaign_name": "Women Fit & ift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 69410,
+        "mean_ctr": 0.012274888344618932,
+        "mean_roas": 0.2809194814056636,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Fit and Lift",
+      "segment_filter": {
+        "campaign_name": "Women Fit and Lift"
+      },
+      "validation": {
+        "sample_size": 39,
+        "total_impressions": 11465907,
+        "mean_ctr": 0.016350062915745815,
+        "mean_roas": 6.288185309434014,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Fit& Lift",
+      "segment_filter": {
+        "campaign_name": "Women Fit& Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 358256,
+        "mean_ctr": 0.018718458309142066,
+        "mean_roas": 4.251646641574986,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Se mless Everyday",
+      "segment_filter": {
+        "campaign_name": "Women Se mless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 118820,
+        "mean_ctr": 0.013878134994108737,
+        "mean_roas": 3.5976290722326736,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Seamless Eve yday",
+      "segment_filter": {
+        "campaign_name": "Women Seamless Eve yday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 176157,
+        "mean_ctr": 0.0,
+        "mean_roas": 11.486434380257993,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Seamless Everyday",
+      "segment_filter": {
+        "campaign_name": "Women Seamless Everyday"
+      },
+      "validation": {
+        "sample_size": 47,
+        "total_impressions": 13727649,
+        "mean_ctr": 0.007457151104618175,
+        "mean_roas": 6.895295999466826,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Semless Everyday",
+      "segment_filter": {
+        "campaign_name": "Women Semless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 151022,
+        "mean_ctr": 0.011289745864840883,
+        "mean_roas": 3.3015345211080906,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Sum er Invisible",
+      "segment_filter": {
+        "campaign_name": "Women Sum er Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 244146,
+        "mean_ctr": 0.012484333144921481,
+        "mean_roas": 11.619894956080774,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Summ-r Invisible",
+      "segment_filter": {
+        "campaign_name": "Women Summ-r Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 13852,
+        "mean_ctr": 0.011334103378573492,
+        "mean_roas": 0.5529200717560294,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Summer In-isible",
+      "segment_filter": {
+        "campaign_name": "Women Summer In-isible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 59910,
+        "mean_ctr": 0.009697880153563678,
+        "mean_roas": 2.1486358330901663,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women Summer Invisi-le",
+      "segment_filter": {
+        "campaign_name": "Women Summer Invisi-le"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 270357,
+        "mean_ctr": 0.013212160217786113,
+        "mean_roas": 11.328519505694208,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "Women Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 46,
+        "total_impressions": 10846426,
+        "mean_ctr": 0.010087560274541163,
+        "mean_roas": 6.548688366785223,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women it & Lift",
+      "segment_filter": {
+        "campaign_name": "Women it & Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 208624,
+        "mean_ctr": 0.014322417363294732,
+        "mean_roas": 5.568309993029593,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | Stu io Sports",
+      "segment_filter": {
+        "campaign_name": "Women | Stu io Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 487391,
+        "mean_ctr": 0.009292334080850898,
+        "mean_roas": 8.476816258702856,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women | Stu-io Sports",
+      "segment_filter": {
+        "campaign_name": "Women | Stu-io Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 289718,
+        "mean_ctr": 0.015373570161329293,
+        "mean_roas": 24.779052785311915,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | Studi Sports",
+      "segment_filter": {
+        "campaign_name": "Women | Studi Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 94330,
+        "mean_ctr": 0.012180642425527403,
+        "mean_roas": 5.567499271066187,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | Studio  ports",
+      "segment_filter": {
+        "campaign_name": "Women | Studio  ports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 46734,
+        "mean_ctr": 0.013009800145504343,
+        "mean_roas": 2.1038972144429957,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | Studio Sp rts",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Sp rts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 96140,
+        "mean_ctr": 0.009798210942375702,
+        "mean_roas": 1.0172045440539041,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women | Studio Spo-ts",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Spo-ts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 220998,
+        "mean_ctr": 0.009461624087095812,
+        "mean_roas": 3.5177268102800023,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women | Studio Spors",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Spors"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 84053,
+        "mean_ctr": 0.012920419259276885,
+        "mean_roas": 16.292642857142855,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | Studio Sports",
+      "segment_filter": {
+        "campaign_name": "Women | Studio Sports"
+      },
+      "validation": {
+        "sample_size": 140,
+        "total_impressions": 39118500,
+        "mean_ctr": 0.010925493497635691,
+        "mean_roas": 17.774711002913865,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women | tudio Sports",
+      "segment_filter": {
+        "campaign_name": "Women | tudio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 355351,
+        "mean_ctr": 0.011332457204285341,
+        "mean_roas": 17.179255064603606,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women-Stud o Sports",
+      "segment_filter": {
+        "campaign_name": "Women-Stud o Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 505640,
+        "mean_ctr": 0.013974369116367376,
+        "mean_roas": 21.64435046756805,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio -ports",
+      "segment_filter": {
+        "campaign_name": "Women-Studio -ports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 298747,
+        "mean_ctr": 0.00900762183385942,
+        "mean_roas": 6.631991755116245,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio S orts",
+      "segment_filter": {
+        "campaign_name": "Women-Studio S orts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 270653,
+        "mean_ctr": 0.006554518146852243,
+        "mean_roas": 2.612626033637757,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio Spo-ts",
+      "segment_filter": {
+        "campaign_name": "Women-Studio Spo-ts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 268566,
+        "mean_ctr": 0.0,
+        "mean_roas": 19.17096607288048,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio Spors",
+      "segment_filter": {
+        "campaign_name": "Women-Studio Spors"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 400379,
+        "mean_ctr": 0.01575507206921442,
+        "mean_roas": 21.902811499349028,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio Sports",
+      "segment_filter": {
+        "campaign_name": "Women-Studio Sports"
+      },
+      "validation": {
+        "sample_size": 61,
+        "total_impressions": 15956778,
+        "mean_ctr": 0.010884111333319626,
+        "mean_roas": 11.923889767380013,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio Spots",
+      "segment_filter": {
+        "campaign_name": "Women-Studio Spots"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 103818,
+        "mean_ctr": 0.018455373827274652,
+        "mean_roas": 28.340558978873243,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women-Studio-Sports",
+      "segment_filter": {
+        "campaign_name": "Women-Studio-Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 144211,
+        "mean_ctr": 0.00887588325439807,
+        "mean_roas": 41.070960451977406,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WomenCotton Classics",
+      "segment_filter": {
+        "campaign_name": "WomenCotton Classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 83855,
+        "mean_ctr": 0.009492576471289727,
+        "mean_roas": 8.248634625887494,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_WomenSeamless Everyday",
+      "segment_filter": {
+        "campaign_name": "WomenSeamless Everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 438130,
+        "mean_ctr": 0.01096249971469655,
+        "mean_roas": 10.399017208714872,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women_-it_&_Lift",
+      "segment_filter": {
+        "campaign_name": "Women_-it_&_Lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 56686,
+        "mean_ctr": 0.01374237025014995,
+        "mean_roas": 0.663361053052875,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women_Fit_&_Lift",
+      "segment_filter": {
+        "campaign_name": "Women_Fit_&_Lift"
+      },
+      "validation": {
+        "sample_size": 52,
+        "total_impressions": 12714558,
+        "mean_ctr": 0.01593498916900812,
+        "mean_roas": 6.340907260233293,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women_|-Studio_Sports",
+      "segment_filter": {
+        "campaign_name": "Women_|-Studio_Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 155276,
+        "mean_ctr": 0.009673098225095959,
+        "mean_roas": 6.3013640464943474,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_Women_|_Studio_ ports",
+      "segment_filter": {
+        "campaign_name": "Women_|_Studio_ ports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 237045,
+        "mean_ctr": 0.011280558543736422,
+        "mean_roas": 22.784397320192678,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women_|_Studio_Spo ts",
+      "segment_filter": {
+        "campaign_name": "Women_|_Studio_Spo ts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 409919,
+        "mean_ctr": 0.013712465145553146,
+        "mean_roas": 16.001574933687003,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_Women_|_Studio_Sports",
+      "segment_filter": {
+        "campaign_name": "Women_|_Studio_Sports"
+      },
+      "validation": {
+        "sample_size": 64,
+        "total_impressions": 16213654,
+        "mean_ctr": 0.01077348886580014,
+        "mean_roas": 10.674112020546632,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_en comfortmax launch",
+      "segment_filter": {
+        "campaign_name": "en comfortmax launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 34301,
+        "mean_ctr": 0.016092825282061747,
+        "mean_roas": 0.7809782409276044,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_en_ComfortMax_Launch",
+      "segment_filter": {
+        "campaign_name": "en_ComfortMax_Launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 233920,
+        "mean_ctr": 0.02166125170998632,
+        "mean_roas": 9.52006640803673,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_m n | athleisure cooling",
+      "segment_filter": {
+        "campaign_name": "m n | athleisure cooling"
+      },
+      "validation": {
+        "sample_size": 3,
+        "total_impressions": 694422,
+        "mean_ctr": 0.012083750644600799,
+        "mean_roas": 20.81445638796009,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_me bold colors drop",
+      "segment_filter": {
+        "campaign_name": "me bold colors drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 405401,
+        "mean_ctr": 0.009151432778902863,
+        "mean_roas": 1.8758749527052592,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_men bld colors drop",
+      "segment_filter": {
+        "campaign_name": "men bld colors drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 150277,
+        "mean_ctr": 0.008683963613859738,
+        "mean_roas": 1.7765967483254193,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_men bo-d colors drop",
+      "segment_filter": {
+        "campaign_name": "men bo-d colors drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 334273,
+        "mean_ctr": 0.011086746461724398,
+        "mean_roas": 2.779973418261153,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men bold clors drop",
+      "segment_filter": {
+        "campaign_name": "men bold clors drop"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 297961,
+        "mean_ctr": 0.011904242501535435,
+        "mean_roas": 2.0473062194638847,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men bold colors drop",
+      "segment_filter": {
+        "campaign_name": "men bold colors drop"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 15676184,
+        "mean_ctr": 0.009631721256647047,
+        "mean_roas": 2.813785725874295,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_men co fortmax launch",
+      "segment_filter": {
+        "campaign_name": "men co fortmax launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 300700,
+        "mean_ctr": 0.014928500166278683,
+        "mean_roas": 2.741519165112957,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men comfor-max launch",
+      "segment_filter": {
+        "campaign_name": "men comfor-max launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 324920,
+        "mean_ctr": 0.014899052074356765,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men comfortmax launch",
+      "segment_filter": {
+        "campaign_name": "men comfortmax launch"
+      },
+      "validation": {
+        "sample_size": 44,
+        "total_impressions": 11419812,
+        "mean_ctr": 0.015869962774082442,
+        "mean_roas": 18.221897516032126,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men comfotmax launch",
+      "segment_filter": {
+        "campaign_name": "men comfotmax launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 289079,
+        "mean_ctr": 0.01843440720356719,
+        "mean_roas": 7.56417842111751,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men omfortmax launch",
+      "segment_filter": {
+        "campaign_name": "men omfortmax launch"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 502373,
+        "mean_ctr": 0.021997599393279495,
+        "mean_roas": 19.09459781371589,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men premium modal",
+      "segment_filter": {
+        "campaign_name": "men premium modal"
+      },
+      "validation": {
+        "sample_size": 44,
+        "total_impressions": 12250365,
+        "mean_ctr": 0.010439575009165852,
+        "mean_roas": 8.02382669537649,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men s gnature soft",
+      "segment_filter": {
+        "campaign_name": "men s gnature soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 33799,
+        "mean_ctr": 0.015030030474274387,
+        "mean_roas": 1.0716519020323085,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men sig ature soft",
+      "segment_filter": {
+        "campaign_name": "men sig ature soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 109203,
+        "mean_ctr": 0.012957519482065511,
+        "mean_roas": 0.24404488483496292,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men signa ure soft",
+      "segment_filter": {
+        "campaign_name": "men signa ure soft"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 379431,
+        "mean_ctr": 0.014519108876185656,
+        "mean_roas": 2.441083910793718,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men signature soft",
+      "segment_filter": {
+        "campaign_name": "men signature soft"
+      },
+      "validation": {
+        "sample_size": 56,
+        "total_impressions": 16202316,
+        "mean_ctr": 0.013803494436868862,
+        "mean_roas": 3.3623552291359178,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men | athleisure cooling",
+      "segment_filter": {
+        "campaign_name": "men | athleisure cooling"
+      },
+      "validation": {
+        "sample_size": 66,
+        "total_impressions": 18115832,
+        "mean_ctr": 0.019950390212649795,
+        "mean_roas": 18.70653215490801,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_men | athlisure cooling",
+      "segment_filter": {
+        "campaign_name": "men | athlisure cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 228119,
+        "mean_ctr": 0.018271165488188183,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_mn | athleisure cooling",
+      "segment_filter": {
+        "campaign_name": "mn | athleisure cooling"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 334200,
+        "mean_ctr": 0.029317773788150807,
+        "mean_roas": 11.604941818704209,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_omen Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "omen Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 440467,
+        "mean_ctr": 0.011857869034456611,
+        "mean_roas": 5.599825263513894,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_omen | Studio Sports",
+      "segment_filter": {
+        "campaign_name": "omen | Studio Sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 289232,
+        "mean_ctr": 0.01377786690269403,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_w men cotton classics",
+      "segment_filter": {
+        "campaign_name": "w men cotton classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 48688,
+        "mean_ctr": 0.008770128162997043,
+        "mean_roas": 0.8703569168756299,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_w men fit & lift",
+      "segment_filter": {
+        "campaign_name": "w men fit & lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 427255,
+        "mean_ctr": 0.021186410925559677,
+        "mean_roas": 9.937188345918223,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_w-men cotton classics",
+      "segment_filter": {
+        "campaign_name": "w-men cotton classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 494553,
+        "mean_ctr": 0.009384231821463019,
+        "mean_roas": 9.354591605475477,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_wo en fit & lift",
+      "segment_filter": {
+        "campaign_name": "wo en fit & lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 418057,
+        "mean_ctr": 0.01658386296605487,
+        "mean_roas": 3.68006612987172,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_wo-en seamless everyday",
+      "segment_filter": {
+        "campaign_name": "wo-en seamless everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 352047,
+        "mean_ctr": 0.00965212031348087,
+        "mean_roas": 4.7369595536959554,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_woen  Summer  Invisible",
+      "segment_filter": {
+        "campaign_name": "woen  Summer  Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 513788,
+        "mean_ctr": 0.015940426790816444,
+        "mean_roas": 4.499652652346681,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_woen Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "woen Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 162427,
+        "mean_ctr": 0.011833008059004968,
+        "mean_roas": 17.91680592893991,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_wom-n_Summer_Invisible",
+      "segment_filter": {
+        "campaign_name": "wom-n_Summer_Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 407485,
+        "mean_ctr": 0.012233579150152767,
+        "mean_roas": 6.178009695663883,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_wome  Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "wome  Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 353353,
+        "mean_ctr": 0.01169368874751311,
+        "mean_roas": 6.067071359380045,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women  -ummer  Invisible",
+      "segment_filter": {
+        "campaign_name": "women  -ummer  Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 319543,
+        "mean_ctr": 0.015303104746466047,
+        "mean_roas": 5.245172044613696,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women  Summ r  Invisible",
+      "segment_filter": {
+        "campaign_name": "women  Summ r  Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 176180,
+        "mean_ctr": 0.008621864002724485,
+        "mean_roas": 1.5380405570486195,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women  Summer  -nvisible",
+      "segment_filter": {
+        "campaign_name": "women  Summer  -nvisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 241278,
+        "mean_ctr": 0.01783834415073069,
+        "mean_roas": 15.741723368974787,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women  Summer  Invi ible",
+      "segment_filter": {
+        "campaign_name": "women  Summer  Invi ible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 352330,
+        "mean_ctr": 0.009394601651860473,
+        "mean_roas": 13.562446200798183,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women  Summer  Invisib e",
+      "segment_filter": {
+        "campaign_name": "women  Summer  Invisib e"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 388737,
+        "mean_ctr": 0.009975896300069198,
+        "mean_roas": 8.776865123116501,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women  Summer  Invisible",
+      "segment_filter": {
+        "campaign_name": "women  Summer  Invisible"
+      },
+      "validation": {
+        "sample_size": 54,
+        "total_impressions": 14580097,
+        "mean_ctr": 0.010711274990984189,
+        "mean_roas": 8.733357259106604,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Su mer Invisible",
+      "segment_filter": {
+        "campaign_name": "women Su mer Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 449572,
+        "mean_ctr": 0.00788527755287251,
+        "mean_roas": 24.39434118621996,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women Summ-r Invisible",
+      "segment_filter": {
+        "campaign_name": "women Summ-r Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 483287,
+        "mean_ctr": 0.010931392733510317,
+        "mean_roas": 5.24887753522217,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Summer  nvisible",
+      "segment_filter": {
+        "campaign_name": "women Summer  nvisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 390046,
+        "mean_ctr": 0.013298431467057732,
+        "mean_roas": 2.991259598104885,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Summer In isible",
+      "segment_filter": {
+        "campaign_name": "women Summer In isible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 36288,
+        "mean_ctr": 0.012924382716049383,
+        "mean_roas": 0.3324985791418017,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Summer In-isible",
+      "segment_filter": {
+        "campaign_name": "women Summer In-isible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 294900,
+        "mean_ctr": 0.009348931841302137,
+        "mean_roas": 24.31460490907608,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women Summer Inv-sible",
+      "segment_filter": {
+        "campaign_name": "women Summer Inv-sible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 35102,
+        "mean_ctr": 0.011594780924163866,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Summer Invi-ible",
+      "segment_filter": {
+        "campaign_name": "women Summer Invi-ible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 44472,
+        "mean_ctr": 0.012030041374347905,
+        "mean_roas": 0.6638065211318195,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women Summer Invisble",
+      "segment_filter": {
+        "campaign_name": "women Summer Invisble"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 105538,
+        "mean_ctr": 0.008935170270423924,
+        "mean_roas": 1.447872718232829,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women Summer Invisi-le",
+      "segment_filter": {
+        "campaign_name": "women Summer Invisi-le"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 478776,
+        "mean_ctr": 0.00893319631727572,
+        "mean_roas": 12.857939555852397,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women Summer Invisible",
+      "segment_filter": {
+        "campaign_name": "women Summer Invisible"
+      },
+      "validation": {
+        "sample_size": 152,
+        "total_impressions": 44545533,
+        "mean_ctr": 0.010690405811049365,
+        "mean_roas": 9.05773884174105,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women c-tton classics",
+      "segment_filter": {
+        "campaign_name": "women c-tton classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 112581,
+        "mean_ctr": 0.008322896403478384,
+        "mean_roas": 3.0406732117812063,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women co ton classics",
+      "segment_filter": {
+        "campaign_name": "women co ton classics"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 87612,
+        "mean_ctr": 0.011235995849142307,
+        "mean_roas": 6.2657019893114985,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women cott n classics",
+      "segment_filter": {
+        "campaign_name": "women cott n classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 311417,
+        "mean_ctr": 0.009305850354990253,
+        "mean_roas": 16.1317994553453,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women cotton clasics",
+      "segment_filter": {
+        "campaign_name": "women cotton clasics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 102919,
+        "mean_ctr": 0.010357659907305746,
+        "mean_roas": 1.2292114939398067,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women cotton classics",
+      "segment_filter": {
+        "campaign_name": "women cotton classics"
+      },
+      "validation": {
+        "sample_size": 53,
+        "total_impressions": 14458086,
+        "mean_ctr": 0.010096429145679629,
+        "mean_roas": 13.233762910893647,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women fit & ift",
+      "segment_filter": {
+        "campaign_name": "women fit & ift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 218732,
+        "mean_ctr": 0.01700711372821535,
+        "mean_roas": 1.7930523658421136,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women fit & li t",
+      "segment_filter": {
+        "campaign_name": "women fit & li t"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 258145,
+        "mean_ctr": 0.007790195432799396,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women fit & lift",
+      "segment_filter": {
+        "campaign_name": "women fit & lift"
+      },
+      "validation": {
+        "sample_size": 54,
+        "total_impressions": 15473143,
+        "mean_ctr": 0.01735936922564773,
+        "mean_roas": 7.40971975163737,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women fit-& lift",
+      "segment_filter": {
+        "campaign_name": "women fit-& lift"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 90440,
+        "mean_ctr": 0.015944272445820435,
+        "mean_roas": 1.5442960828854784,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women s amless everyday",
+      "segment_filter": {
+        "campaign_name": "women s amless everyday"
+      },
+      "validation": {
+        "sample_size": 2,
+        "total_impressions": 296400,
+        "mean_ctr": 0.008791740678192437,
+        "mean_roas": 1.728081408577117,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women s-mmer invisible",
+      "segment_filter": {
+        "campaign_name": "women s-mmer invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 103973,
+        "mean_ctr": 0.008492589422253855,
+        "mean_roas": 1.325733447448543,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women seam-ess everyday",
+      "segment_filter": {
+        "campaign_name": "women seam-ess everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 257800,
+        "mean_ctr": 0.00917377812257564,
+        "mean_roas": 38.71219931271477,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women seamess everyday",
+      "segment_filter": {
+        "campaign_name": "women seamess everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 84675,
+        "mean_ctr": 0.007676409802184824,
+        "mean_roas": 2.294297041781031,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women seaml-ss everyday",
+      "segment_filter": {
+        "campaign_name": "women seaml-ss everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 32617,
+        "mean_ctr": 0.010577306312659043,
+        "mean_roas": 2.151769518050863,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women seamless everday",
+      "segment_filter": {
+        "campaign_name": "women seamless everday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 267204,
+        "mean_ctr": 0.00942725408302271,
+        "mean_roas": 2.0206856446610546,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women seamless everyday",
+      "segment_filter": {
+        "campaign_name": "women seamless everyday"
+      },
+      "validation": {
+        "sample_size": 51,
+        "total_impressions": 13755475,
+        "mean_ctr": 0.007994503848694512,
+        "mean_roas": 5.738718143051366,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women seamless-everyday",
+      "segment_filter": {
+        "campaign_name": "women seamless-everyday"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 338861,
+        "mean_ctr": 0.00894467052862383,
+        "mean_roas": 16.555179394108617,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women su-mer invisible",
+      "segment_filter": {
+        "campaign_name": "women su-mer invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 287625,
+        "mean_ctr": 0.0057262059973924384,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women summe- invisible",
+      "segment_filter": {
+        "campaign_name": "women summe- invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 189138,
+        "mean_ctr": 0.008845393310704353,
+        "mean_roas": 5.4283962823808585,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women summer in isible",
+      "segment_filter": {
+        "campaign_name": "women summer in isible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 127198,
+        "mean_ctr": 0.00944983411688863,
+        "mean_roas": 1.0455345428946274,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women summer invisible",
+      "segment_filter": {
+        "campaign_name": "women summer invisible"
+      },
+      "validation": {
+        "sample_size": 47,
+        "total_impressions": 11149957,
+        "mean_ctr": 0.010316425272880436,
+        "mean_roas": 6.254376499555121,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women | studio sp-rts",
+      "segment_filter": {
+        "campaign_name": "women | studio sp-rts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 119026,
+        "mean_ctr": 0.01145127955236671,
+        "mean_roas": 76.37365673933067,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women | studio spo ts",
+      "segment_filter": {
+        "campaign_name": "women | studio spo ts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 190126,
+        "mean_ctr": 0.00615381378664675,
+        "mean_roas": 0.0,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women | studio sports",
+      "segment_filter": {
+        "campaign_name": "women | studio sports"
+      },
+      "validation": {
+        "sample_size": 60,
+        "total_impressions": 16319951,
+        "mean_ctr": 0.010272131604972898,
+        "mean_roas": 12.507062832029158,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women | studio sprts",
+      "segment_filter": {
+        "campaign_name": "women | studio sprts"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 138828,
+        "mean_ctr": 0.013722015731696777,
+        "mean_roas": 1.2389618717358106,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women-| studio sports",
+      "segment_filter": {
+        "campaign_name": "women-| studio sports"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 154939,
+        "mean_ctr": 0.01619992384099549,
+        "mean_roas": 4.981783071355264,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_women_Summe _Invisible",
+      "segment_filter": {
+        "campaign_name": "women_Summe _Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 411098,
+        "mean_ctr": 0.007674569080851768,
+        "mean_roas": 2.407814479197116,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women_Summer_Inisible",
+      "segment_filter": {
+        "campaign_name": "women_Summer_Inisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 32574,
+        "mean_ctr": 0.00954749186467735,
+        "mean_roas": 0.5342683754880326,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women_Summer_Invisi-le",
+      "segment_filter": {
+        "campaign_name": "women_Summer_Invisi-le"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 40462,
+        "mean_ctr": 0.00862537689684148,
+        "mean_roas": 0.763236485704364,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    },
+    {
+      "id": "hyp_women_Summer_Invisible",
+      "segment_filter": {
+        "campaign_name": "women_Summer_Invisible"
+      },
+      "validation": {
+        "sample_size": 57,
+        "total_impressions": 14659080,
+        "mean_ctr": 0.010789858273470862,
+        "mean_roas": 7.990380818934276,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_womn  Summer  Invisible",
+      "segment_filter": {
+        "campaign_name": "womn  Summer  Invisible"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 109918,
+        "mean_ctr": 0.01246383667825106,
+        "mean_roas": 3.051138962583478,
+        "confidence": 0.8,
+        "comment": "ok"
+      }
+    },
+    {
+      "id": "hyp_womn cotton classics",
+      "segment_filter": {
+        "campaign_name": "womn cotton classics"
+      },
+      "validation": {
+        "sample_size": 1,
+        "total_impressions": 237466,
+        "mean_ctr": 0.007900078327002602,
+        "mean_roas": 6.830281744699532,
+        "confidence": 0.8,
+        "comment": "low_ctr"
+      }
+    }
+  ]
+}

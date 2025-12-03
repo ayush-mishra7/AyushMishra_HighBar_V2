@@ -1,4 +1,4 @@
-from src.utils.logging_utils import start_span, end_span, log_event
+from src.utils.logging_utils import start_span, end_span
 
 class PlannerAgent:
     def __init__(self):
@@ -7,6 +7,7 @@ class PlannerAgent:
     def generate_plan(self):
         steps = [
             "load_dataset",
+            "validate_schema",
             "generate_insights",
             "evaluate_insights",
             "generate_creatives",
@@ -14,9 +15,11 @@ class PlannerAgent:
         ]
         return {"steps": steps}
 
-    def run(self, trace_id=None, parent_span_id=None):
-        span = start_span("planner.generate", trace_id=trace_id, parent_span_id=parent_span_id, agent="PlannerAgent")
+    def run(self, trace_id=None, parent_span=None):
+        span = start_span("planner.run", trace_id=trace_id, parent_span_id=parent_span, agent="PlannerAgent")
         plan = self.generate_plan()
-        log_event("planner.plan.created", {"steps": plan["steps"]}, trace_id=span["trace_id"], parent_span_id=span["span_id"], agent="PlannerAgent")
         end_span(span)
         return plan
+
+    # backward compat
+    generate = generate_plan

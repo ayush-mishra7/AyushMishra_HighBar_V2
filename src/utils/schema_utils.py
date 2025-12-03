@@ -1,19 +1,24 @@
-import json
+from typing import Dict, Any
 from pathlib import Path
-from typing import Dict, Any, List
+import json
+from src.utils.logging_utils import log_event
 
-ROOT = Path.cwd()
+REQUIRED_COLUMNS = [
+    "campaign_name",
+    "impressions",
+    "clicks",
+    "spend",
+    "revenue",
+    "creative_type",
+    "audience_type",
+    "platform",
+    "country",
+]
 
-def load_schema(path: str = "config/config.yaml") -> Dict[str, Any]:
-    import yaml
-    p = Path(path)
-    if not p.exists():
-        return {}
-    cfg = yaml.safe_load(p.read_text())
-    return cfg.get("schema", {})
-
-def validate_schema_columns(df_columns, required_columns: List[str]) -> Dict[str, Any]:
-    present = set(df_columns)
-    missing = [c for c in required_columns if c not in present]
-    extra = [c for c in df_columns if c not in required_columns]
-    return {"missing": missing, "extra": extra, "ok": len(missing) == 0}
+def validate_schema(df) -> Dict[str, Any]:
+    cols = list(df.columns)
+    missing = [c for c in REQUIRED_COLUMNS if c not in cols]
+    extra = [c for c in cols if c not in REQUIRED_COLUMNS]
+    ok = len(missing) == 0
+    result = {"ok": ok, "missing_columns": missing, "extra_columns": extra}
+    return result

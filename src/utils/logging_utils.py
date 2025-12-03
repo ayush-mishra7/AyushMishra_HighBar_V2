@@ -1,63 +1,92 @@
-import json
 import uuid
-from datetime import datetime
-from pathlib import Path
-from typing import Any, Dict
+import datetime
+import json
+import os
+from typing import Any, Dict, Tuple, Union
 
-ROOT = Path.cwd()
-CFG_PATH = ROOT / "config" / "config.yaml"
+LOG_PATH = os.path.join("logs", "events.log.jsonl")
 
-LOG_DIR = ROOT / "logs"
-LOG_DIR.mkdir(parents=True, exist_ok=True)
-LOG_PATH = LOG_DIR / "events.log.jsonl"
-
-def _now_iso() -> str:
-    return datetime.utcnow().isoformat() + "Z"
 
 def make_trace_id() -> str:
-    return uuid.uuid4().hex
+    return str(uuid.uuid4())
+
 
 def make_span_id() -> str:
-    return uuid.uuid4().hex
+    return str(uuid.uuid4())
 
-def _ensure_jsonable(v: Any) -> Any:
-    try:
-        json.dumps(v)
-        return v
-    except Exception:
+
+def _utc_now() -> str:
+    return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc).isoformat()
+
+
+def _ensure_logfile():
+    d = os.path.dirname(LOG_PATH)
+    if d and not os.path.exists(d):
+        os.makedirs(d, exist_ok=True)
+    if not os.path.exists(LOG_PATH):
+        open(LOG_PATH, "a", encoding="utf-8").close()
+
+
+def _normalize_span(span: Union[dict, tuple, None]) -> Union[dict, None]:
+    if span is None:
+        return None
+    if isinstance(span, dict):
+        return span
+    if isinstance(span, tuple) or isinstance(span, list):
+        # support legacy tuple forms: (span_id, trace_id, parent_span_id, agent, name)
         try:
-            return str(v)
+            span_id, trace_id, parent_span_id, agent, name = tuple(span)
+            return {
+                "span_id": span_id,
+                "trace_id": trace_id,
+                "parent_span_id": parent_span_id,
+                "agent": agent,
+                "name": name,
+            }
         except Exception:
             return None
+    return None
 
-def log_event(event_type: str, payload: Dict[str, Any] = None, *, trace_id: str = None, span_id: str = None, parent_span_id: str = None, agent: str = None) -> Dict[str, Any]:
+
+def log_event(event_name: str, payload: Dict[str, Any] = None, trace_id: str = None, parent_span_id: str = None, agent: str = None):
     p = payload or {}
-    p2 = {k: _ensure_jsonable(v) for k, v in p.items()}
     entry = {
-        "timestamp": _now_iso(),
+        "timestamp": _utc_now(),
+        "event": event_name,
         "trace_id": trace_id or make_trace_id(),
-        "span_id": span_id or None,
-        "parent_span_id": parent_span_id or None,
-        "agent": agent or None,
-        "event_type": event_type,
-        "payload": p2,
+        "parent_span_id": parent_span_id,
+        "agent": agent,
+        "payload": p,
     }
+    _ensure_logfile()
     with open(LOG_PATH, "a", encoding="utf-8") as f:
-        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
-    print(f"[{event_type}] {entry['payload']}")
-    return entry
+        f.write(json.dumps(entry, default=str, ensure_ascii=False) + "\n")
+    # human-friendly console line (matches prior outputs like "[pipeline.start.start] {}")
+    print(f'[{event_name}] {p}')
 
-def start_span(event_type: str, *, trace_id: str = None, parent_span_id: str = None, agent: str = None) -> Dict[str, str]:
-    t = trace_id or make_trace_id()
-    s = make_span_id()
-    log_event(f"{event_type}.start", {}, trace_id=t, span_id=s, parent_span_id=parent_span_id, agent=agent)
-    return {"trace_id": t, "span_id": s, "event_type": event_type, "parent_span_id": parent_span_id, "agent": agent}
 
-def end_span(span_ctx: Dict[str, str]) -> Dict[str, Any]:
-    if not isinstance(span_ctx, dict):
-        return {}
-    trace_id = span_ctx.get("trace_id")
-    span_id = span_ctx.get("span_id")
-    event_type = span_ctx.get("event_type", "span")
-    log_event(f"{event_type}.end", {}, trace_id=trace_id, span_id=span_id, parent_span_id=span_ctx.get("parent_span_id"), agent=span_ctx.get("agent"))
-    return {"trace_id": trace_id, "span_id": span_id}
+def start_span(name: str, trace_id: str = None, parent_span_id: str = None, agent: str = None) -> dict:
+    span = {
+        "span_id": make_span_id(),
+        "trace_id": trace_id or make_trace_id(),
+        "parent_span_id": parent_span_id,
+        "agent": agent,
+        "name": name,
+        "start_time": _utc_now(),
+    }
+    log_event(f"{name}.start", {}, trace_id=span["trace_id"], parent_span_id=parent_span_id, agent=agent)
+    return span
+
+
+def end_span(span: Union[dict, tuple, None]):
+    s = _normalize_span(span)
+    if s is None:
+        return
+    entry = {
+        "end_time": _utc_now(),
+    }
+    log_event(f"{s.get('name')}.end", entry, trace_id=s.get("trace_id"), parent_span_id=s.get("span_id"), agent=s.get("agent"))
+
+
+# convenience alias names that older modules may import
+_now_iso = _utc_now

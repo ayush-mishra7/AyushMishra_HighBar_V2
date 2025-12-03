@@ -1,27 +1,25 @@
-.PHONY: help venv install test lint format run clean
+.PHONY: help setup install test run clean format
+
+PY ?= python
+PIP ?= pip
 
 help:
-	@echo "Available commands: install, test, lint, format, run, clean"
-
-venv:
-	python -m venv .venv
+	@echo "Makefile targets:"
+	@echo "  make setup     -> create venv and install dev deps (optional)"
+	@echo "  make install   -> install runtime deps"
+	@echo "  make test      -> run pytest"
+	@echo "  make run       -> run pipeline (python -m src.run)"
+	@echo "  make clean     -> remove logs and reports"
 
 install:
-	python -m pip install --upgrade pip
-	pip install -r requirements.txt
+	$(PIP) install --upgrade pip
+	$(PIP) install pytest flake8 pyyaml pandas tenacity
 
 test:
-	pytest -q --maxfail=1
-
-lint:
-	flake8 --max-line-length=120
-
-format:
-	black .
+	$(PY) -m pytest -q
 
 run:
-	python -m src.run
+	$(PY) -m src.run
 
 clean:
-	find . -name "__pycache__" -type d -exec rm -rf {} +
-	rm -rf .pytest_cache .venv build dist
+	rm -rf logs reports .pytest_cache

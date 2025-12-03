@@ -1,52 +1,65 @@
-import random
-from src.utils.logging_utils import start_span, end_span, log_event, make_trace_id
-from typing import Dict, Any
+import json
+import os
+from src.utils.logging_utils import start_span, end_span, log_event
 
-ANGLES = ["Confidence", "TrialOffer", "Comfort", "Style", "Value", "Performance"]
-CTA = ["Shop Now", "Buy Now", "Learn More"]
-
-def _persona_from_segment(seg: dict):
-    name = (seg.get("campaign_name") or "").lower()
-    if "women" in name:
-        return "Women 25-34"
-    if "men" in name:
-        return "Men 25-44"
-    if "cotton" in name or "classic" in name:
-        return "Comfort Seekers"
-    return "General Audience"
 
 class CreativeAgent:
-    def __init__(self):
-        pass
+    def run(self, validated_insights: dict, trace_id=None, parent_span=None):
+        span = start_span("creatives.generate", trace_id=trace_id, parent_span_id=parent_span, agent="CreativeAgent")
+        span_id = span["span_id"]
 
-    def generate_creatives(self, insights: Dict[str, Any], *, trace_id=None, parent_span=None) -> Dict[str, Any]:
-        span = start_span("creative.generate", trace_id=trace_id, parent_span_id=parent_span, agent="CreativeAgent")
-        out = {"creatives": []}
-        try:
-            hyps = insights.get("hypotheses", [])
-            for h in hyps:
-                hid = h.get("id")
-                seg = h.get("segment_filter", {})
-                evidence = h.get("evidence", {})
-                persona = _persona_from_segment(seg)
-                # two creatives per hypothesis - deterministic-ish
-                for i in (1, 2):
-                    creative = {
-                        "id": f"creative_{hid}_{i}",
-                        "linked_hypothesis_id": hid,
-                        "persona": persona,
-                        "angle": ANGLES[(hash(hid)+i) % len(ANGLES)],
-                        "primary_text": f"Campaign CTR decline: {h.get('summary')} Evidence: {evidence}",
-                        "headline": f"{(ANGLES[(hash(hid)+i) % len(ANGLES)])} — {seg.get('campaign_name','')}",
-                        "description": f"Designed to address: {h.get('summary')}",
-                        "cta": CTA[(hash(hid)+i) % len(CTA)],
-                        "platform": "facebook|instagram"
-                    }
-                    out["creatives"].append(creative)
-            log_event("creative.generated", {"count": len(out["creatives"])}, trace_id=span["trace_id"], parent_span_id=span["span_id"], agent="CreativeAgent")
-            end_span(span)
-            return out
-        except Exception as e:
-            log_event("creative.error", {"error": str(e)}, trace_id=span["trace_id"], parent_span_id=span["span_id"], agent="CreativeAgent")
-            end_span(span)
-            raise
+        results = []
+
+        for h in validated_insights.get("hypotheses", []):
+            seg = h.get("segment_filter", {})
+            val = h.get("validation", {})
+
+            campaign = seg.get("campaign_name", "Unknown Campaign")
+            comment = val.get("comment", "")
+            ctr = val.get("mean_ctr", 0)
+            roas = val.get("mean_roas", None)
+            impressions = val.get("total_impressions", 0)
+
+            ideas = []
+
+            if comment == "low_ctr":
+                ideas.append(
+                    f"Improve initial hook for **{campaign}**. CTR={ctr:.4f}. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message."
+                )
+                ideas.append(
+                    f"Test a short motion-first variant for **{campaign}**. High impressions ({impressions}) but weak CTR suggests creative fatigue."
+                )
+
+            if comment == "low_clicks":
+                ideas.append(
+                    f"Clicks are extremely low on **{campaign}**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+                )
+
+            if roas is not None and roas < 1.0:
+                ideas.append(
+                    f"ROAS is weak ({roas:.2f}) for **{campaign}**. Try value-focused creatives — price reveal, limited time drop style, or bundle messaging."
+                )
+
+            if not ideas:
+                continue
+
+            results.append({
+                "id": h.get("id"),
+                "campaign": campaign,
+                "issues": comment,
+                "creative_recommendations": ideas,
+                "confidence": val.get("confidence", 0.0)
+            })
+
+        out = {"creatives": results}
+
+        os.makedirs("reports", exist_ok=True)
+        file_path = os.path.join("reports", "creatives.json")
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(out, f, indent=2)
+
+        log_event("creatives.generated", {"count": len(results)}, trace_id=trace_id, parent_span_id=span_id, agent="CreativeAgent")
+        end_span(span)
+
+        return out

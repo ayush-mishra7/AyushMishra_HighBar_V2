@@ -1,0 +1,1404 @@
+{
+  "creatives": [
+    {
+      "id": "hyp_ OMEN COTTON CLASSICS",
+      "campaign": " OMEN COTTON CLASSICS",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for ** OMEN COTTON CLASSICS**. CTR=0.0076. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for ** OMEN COTTON CLASSICS**. High impressions (22171) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.32) for ** OMEN COTTON CLASSICS**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_-omen-Studio Sports",
+      "campaign": "-omen-Studio Sports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **-omen-Studio Sports**. CTR=0.0096. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **-omen-Studio Sports**. High impressions (282750) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_M-n Bold Colors Drop",
+      "campaign": "M-n Bold Colors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **M-n Bold Colors Drop**. CTR=0.0076. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **M-n Bold Colors Drop**. High impressions (303822) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.71) for **M-n Bold Colors Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN  Si-nature  Soft",
+      "campaign": "MEN  Si-nature  Soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.98) for **MEN  Si-nature  Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN  Signture  Soft",
+      "campaign": "MEN  Signture  Soft",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN  Signture  Soft**. CTR=0.0055. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN  Signture  Soft**. High impressions (285644) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.33) for **MEN  Signture  Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN -ignature Soft",
+      "campaign": "MEN -ignature Soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.79) for **MEN -ignature Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN B LD COLORS DROP",
+      "campaign": "MEN B LD COLORS DROP",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN B LD COLORS DROP**. CTR=0.0090. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN B LD COLORS DROP**. High impressions (42524) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN BLD COLORS DROP",
+      "campaign": "MEN BLD COLORS DROP",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.40) for **MEN BLD COLORS DROP**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN BOL COLORS DROP",
+      "campaign": "MEN BOL COLORS DROP",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN BOL COLORS DROP**. CTR=0.0045. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN BOL COLORS DROP**. High impressions (122505) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.55) for **MEN BOL COLORS DROP**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN BOLD  OLORS DROP",
+      "campaign": "MEN BOLD  OLORS DROP",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN BOLD  OLORS DROP**. CTR=0.0061. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN BOLD  OLORS DROP**. High impressions (223404) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.41) for **MEN BOLD  OLORS DROP**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN BOLD COL RS DROP",
+      "campaign": "MEN BOLD COL RS DROP",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN BOLD COL RS DROP**. CTR=0.0054. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN BOLD COL RS DROP**. High impressions (166452) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.28) for **MEN BOLD COL RS DROP**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN BOLD COLORS DROP",
+      "campaign": "MEN BOLD COLORS DROP",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN BOLD COLORS DROP**. CTR=0.0088. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN BOLD COLORS DROP**. High impressions (16229885) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN COMFORTMA LAUNCH",
+      "campaign": "MEN COMFORTMA LAUNCH",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN COMFORTMA LAUNCH**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN COMFORTMA LAUNCH**. High impressions (43599) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.22) for **MEN COMFORTMA LAUNCH**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN PREMIUM MOD-L",
+      "campaign": "MEN PREMIUM MOD-L",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN PREMIUM MOD-L**. CTR=0.0057. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN PREMIUM MOD-L**. High impressions (67126) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.34) for **MEN PREMIUM MOD-L**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN SIGATURE SOFT",
+      "campaign": "MEN SIGATURE SOFT",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.36) for **MEN SIGATURE SOFT**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN SIGNATURE SOT",
+      "campaign": "MEN SIGNATURE SOT",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **MEN SIGNATURE SOT**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN Signa-ure Soft",
+      "campaign": "MEN Signa-ure Soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.90) for **MEN Signa-ure Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN Signatu e Soft",
+      "campaign": "MEN Signatu e Soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.49) for **MEN Signatu e Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN Signatue Soft",
+      "campaign": "MEN Signatue Soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.93) for **MEN Signatue Soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN Signature Sot",
+      "campaign": "MEN Signature Sot",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.95) for **MEN Signature Sot**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN Sinature Soft",
+      "campaign": "MEN Sinature Soft",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **MEN Sinature Soft**. CTR=0.0098. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **MEN Sinature Soft**. High impressions (321405) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN | ATHLEISURECOOLING",
+      "campaign": "MEN | ATHLEISURECOOLING",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **MEN | ATHLEISURECOOLING**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN-SIGNATURE SOFT",
+      "campaign": "MEN-SIGNATURE SOFT",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.59) for **MEN-SIGNATURE SOFT**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_MEN_Signature_S ft",
+      "campaign": "MEN_Signature_S ft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.33) for **MEN_Signature_S ft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Me   Premium  Modal",
+      "campaign": "Me   Premium  Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Me   Premium  Modal**. CTR=0.0061. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Me   Premium  Modal**. High impressions (403636) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Me-_Bold_Colors_Drop",
+      "campaign": "Me-_Bold_Colors_Drop",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.42) for **Me-_Bold_Colors_Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men  Bold  Colors  Drop",
+      "campaign": "Men  Bold  Colors  Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men  Bold  Colors  Drop**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men  Bold  Colors  Drop**. High impressions (14668981) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men  Bold  Coors  Drop",
+      "campaign": "Men  Bold  Coors  Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men  Bold  Coors  Drop**. CTR=0.0072. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men  Bold  Coors  Drop**. High impressions (21626) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.17) for **Men  Bold  Coors  Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men -old Colors Drop",
+      "campaign": "Men -old Colors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men -old Colors Drop**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men -old Colors Drop**. High impressions (290072) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men -|  Athleisure  Cooling",
+      "campaign": "Men -|  Athleisure  Cooling",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Men -|  Athleisure  Cooling**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men B-ld Colors Drop",
+      "campaign": "Men B-ld Colors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men B-ld Colors Drop**. CTR=0.0066. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men B-ld Colors Drop**. High impressions (137218) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.91) for **Men B-ld Colors Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bol Colors Drop",
+      "campaign": "Men Bol Colors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Bol Colors Drop**. CTR=0.0096. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Bol Colors Drop**. High impressions (294602) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold -olors Drop",
+      "campaign": "Men Bold -olors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Bold -olors Drop**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Bold -olors Drop**. High impressions (208052) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold C-lors Drop",
+      "campaign": "Men Bold C-lors Drop",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.62) for **Men Bold C-lors Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold Col-rs Drop",
+      "campaign": "Men Bold Col-rs Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Bold Col-rs Drop**. CTR=0.0084. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Bold Col-rs Drop**. High impressions (367632) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold Color- Drop",
+      "campaign": "Men Bold Color- Drop",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.32) for **Men Bold Color- Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold Colors  rop",
+      "campaign": "Men Bold Colors  rop",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.74) for **Men Bold Colors  rop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold Colors Dr p",
+      "campaign": "Men Bold Colors Dr p",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Bold Colors Dr p**. CTR=0.0089. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Bold Colors Dr p**. High impressions (30932) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.24) for **Men Bold Colors Dr p**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Bold Colors Drop",
+      "campaign": "Men Bold Colors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Bold Colors Drop**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Bold Colors Drop**. High impressions (53148455) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men BoldColors Drop",
+      "campaign": "Men BoldColors Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men BoldColors Drop**. CTR=0.0061. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men BoldColors Drop**. High impressions (173827) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.51) for **Men BoldColors Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Pr-mium Modal",
+      "campaign": "Men Pr-mium Modal",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Men Pr-mium Modal**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Prem um Modal",
+      "campaign": "Men Prem um Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Prem um Modal**. CTR=0.0077. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Prem um Modal**. High impressions (37208) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.33) for **Men Prem um Modal**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Premiu- Modal",
+      "campaign": "Men Premiu- Modal",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Men Premiu- Modal**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Premium -odal",
+      "campaign": "Men Premium -odal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Premium -odal**. CTR=0.0066. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Premium -odal**. High impressions (118261) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men Premium M-dal",
+      "campaign": "Men Premium M-dal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men Premium M-dal**. CTR=0.0098. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men Premium M-dal**. High impressions (336441) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men remium Modal",
+      "campaign": "Men remium Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men remium Modal**. CTR=0.0084. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men remium Modal**. High impressions (367130) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men- Premium  Modal",
+      "campaign": "Men- Premium  Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men- Premium  Modal**. CTR=0.0081. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men- Premium  Modal**. High impressions (301636) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men-Athleisure Cooli-g",
+      "campaign": "Men-Athleisure Cooli-g",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **Men-Athleisure Cooli-g**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men-Bold Colors Drop",
+      "campaign": "Men-Bold Colors Drop",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.87) for **Men-Bold Colors Drop**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men-Premium Modal",
+      "campaign": "Men-Premium Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men-Premium Modal**. CTR=0.0099. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men-Premium Modal**. High impressions (285548) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men_Bold_Colors_Drop",
+      "campaign": "Men_Bold_Colors_Drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men_Bold_Colors_Drop**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men_Bold_Colors_Drop**. High impressions (12565923) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Men_Premium_Modal",
+      "campaign": "Men_Premium_Modal",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Men_Premium_Modal**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Men_Premium_Modal**. High impressions (12893928) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_W MEN Cotton Classics",
+      "campaign": "W MEN Cotton Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **W MEN Cotton Classics**. CTR=0.0088. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **W MEN Cotton Classics**. High impressions (516847) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_W men Summer Invisible",
+      "campaign": "W men Summer Invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **W men Summer Invisible**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **W men Summer Invisible**. High impressions (271270) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WMEN Seamless Everyday",
+      "campaign": "WMEN Seamless Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WMEN Seamless Everyday**. CTR=0.0098. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WMEN Seamless Everyday**. High impressions (222142) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOEN  Cotton  Classics",
+      "campaign": "WOEN  Cotton  Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOEN  Cotton  Classics**. CTR=0.0054. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOEN  Cotton  Classics**. High impressions (225783) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOEN FIT & LIFT",
+      "campaign": "WOEN FIT & LIFT",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOEN FIT & LIFT**. CTR=0.0069. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOEN FIT & LIFT**. High impressions (282108) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOM N FIT & LIFT",
+      "campaign": "WOM N FIT & LIFT",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.72) for **WOM N FIT & LIFT**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN  -eamless  Everyday",
+      "campaign": "WOMEN  -eamless  Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN  -eamless  Everyday**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN  -eamless  Everyday**. High impressions (88153) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN  Cotton  Classics",
+      "campaign": "WOMEN  Cotton  Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN  Cotton  Classics**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN  Cotton  Classics**. High impressions (12517058) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN  Seamles   Everyday",
+      "campaign": "WOMEN  Seamles   Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN  Seamles   Everyday**. CTR=0.0091. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN  Seamles   Everyday**. High impressions (109081) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN  Seamless  Everyday",
+      "campaign": "WOMEN  Seamless  Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN  Seamless  Everyday**. CTR=0.0073. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN  Seamless  Everyday**. High impressions (14988598) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN COTTON CLASSIS",
+      "campaign": "WOMEN COTTON CLASSIS",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN COTTON CLASSIS**. CTR=0.0096. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN COTTON CLASSIS**. High impressions (346839) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Cot-on Classics",
+      "campaign": "WOMEN Cot-on Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN Cot-on Classics**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN Cot-on Classics**. High impressions (452982) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Cotton Classis",
+      "campaign": "WOMEN Cotton Classis",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.91) for **WOMEN Cotton Classis**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN SEAM ESS EVERYDAY",
+      "campaign": "WOMEN SEAM ESS EVERYDAY",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN SEAM ESS EVERYDAY**. CTR=0.0092. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN SEAM ESS EVERYDAY**. High impressions (381636) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EV RYDAY",
+      "campaign": "WOMEN SEAMLESS EV RYDAY",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN SEAMLESS EV RYDAY**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN SEAMLESS EV RYDAY**. High impressions (231358) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EVE YDAY",
+      "campaign": "WOMEN SEAMLESS EVE YDAY",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN SEAMLESS EVE YDAY**. CTR=0.0075. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN SEAMLESS EVE YDAY**. High impressions (76426) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN SEAMLESS EVERYDAY",
+      "campaign": "WOMEN SEAMLESS EVERYDAY",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN SEAMLESS EVERYDAY**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN SEAMLESS EVERYDAY**. High impressions (14359473) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN SUMMER INVSIBLE",
+      "campaign": "WOMEN SUMMER INVSIBLE",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.44) for **WOMEN SUMMER INVSIBLE**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Seamless Eeryday",
+      "campaign": "WOMEN Seamless Eeryday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN Seamless Eeryday**. CTR=0.0096. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN Seamless Eeryday**. High impressions (377449) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Seamless Everyday",
+      "campaign": "WOMEN Seamless Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN Seamless Everyday**. CTR=0.0086. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN Seamless Everyday**. High impressions (43874355) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Seamless Everydy",
+      "campaign": "WOMEN Seamless Everydy",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN Seamless Everydy**. CTR=0.0053. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN Seamless Everydy**. High impressions (463408) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN Semless Everyday",
+      "campaign": "WOMEN Semless Everyday",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **WOMEN Semless Everyday**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN eamless Everyday",
+      "campaign": "WOMEN eamless Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN eamless Everyday**. CTR=0.0086. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN eamless Everyday**. High impressions (40709) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN | SUDIO SPORTS",
+      "campaign": "WOMEN | SUDIO SPORTS",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN | SUDIO SPORTS**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN | SUDIO SPORTS**. High impressions (207501) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMENSeamless Everyday",
+      "campaign": "WOMENSeamless Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMENSeamless Everyday**. CTR=0.0091. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMENSeamless Everyday**. High impressions (174848) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN_Cot-on_Classics",
+      "campaign": "WOMEN_Cot-on_Classics",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **WOMEN_Cot-on_Classics**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN_Seamless_Ever-day",
+      "campaign": "WOMEN_Seamless_Ever-day",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN_Seamless_Ever-day**. CTR=0.0081. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN_Seamless_Ever-day**. High impressions (142145) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMEN_Seamless_Everyday",
+      "campaign": "WOMEN_Seamless_Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMEN_Seamless_Everyday**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMEN_Seamless_Everyday**. High impressions (12568757) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WOMN_Cotton_Classics",
+      "campaign": "WOMN_Cotton_Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WOMN_Cotton_Classics**. CTR=0.0060. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WOMN_Cotton_Classics**. High impressions (243469) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Wmen | Studio Sports",
+      "campaign": "Wmen | Studio Sports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Wmen | Studio Sports**. CTR=0.0062. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Wmen | Studio Sports**. High impressions (182623) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Wom-n Fit & Lift",
+      "campaign": "Wom-n Fit & Lift",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Wom-n Fit & Lift**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit.",
+        "ROAS is weak (0.52) for **Wom-n Fit & Lift**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women C-tton Classics",
+      "campaign": "Women C-tton Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women C-tton Classics**. CTR=0.0080. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women C-tton Classics**. High impressions (52394) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.83) for **Women C-tton Classics**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Cottn Classics",
+      "campaign": "Women Cottn Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women Cottn Classics**. CTR=0.0084. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women Cottn Classics**. High impressions (217209) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Cotton Clas ics",
+      "campaign": "Women Cotton Clas ics",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **Women Cotton Clas ics**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Cotton lassics",
+      "campaign": "Women Cotton lassics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women Cotton lassics**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women Cotton lassics**. High impressions (474673) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Fi  & Lift",
+      "campaign": "Women Fi  & Lift",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **Women Fi  & Lift**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Fit  Lift",
+      "campaign": "Women Fit  Lift",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women Fit  Lift**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women Fit  Lift**. High impressions (270275) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Fit & ift",
+      "campaign": "Women Fit & ift",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.28) for **Women Fit & ift**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Seamless Eve yday",
+      "campaign": "Women Seamless Eve yday",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Women Seamless Eve yday**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Seamless Everyday",
+      "campaign": "Women Seamless Everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women Seamless Everyday**. CTR=0.0074. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women Seamless Everyday**. High impressions (13727649) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Summ-r Invisible",
+      "campaign": "Women Summ-r Invisible",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.55) for **Women Summ-r Invisible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women Summer In-isible",
+      "campaign": "Women Summer In-isible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women Summer In-isible**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women Summer In-isible**. High impressions (59910) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women | Stu io Sports",
+      "campaign": "Women | Stu io Sports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women | Stu io Sports**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women | Stu io Sports**. High impressions (487391) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women | Studio Sp rts",
+      "campaign": "Women | Studio Sp rts",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women | Studio Sp rts**. CTR=0.0098. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women | Studio Sp rts**. High impressions (96140) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women | Studio Spo-ts",
+      "campaign": "Women | Studio Spo-ts",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women | Studio Spo-ts**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women | Studio Spo-ts**. High impressions (220998) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women-Studio -ports",
+      "campaign": "Women-Studio -ports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women-Studio -ports**. CTR=0.0090. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women-Studio -ports**. High impressions (298747) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women-Studio S orts",
+      "campaign": "Women-Studio S orts",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women-Studio S orts**. CTR=0.0066. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women-Studio S orts**. High impressions (270653) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women-Studio Spo-ts",
+      "campaign": "Women-Studio Spo-ts",
+      "issues": "low_clicks",
+      "creative_recommendations": [
+        "Clicks are extremely low on **Women-Studio Spo-ts**. Add a stronger CTA ('Swipe for comfort'), simplify visual clutter, and highlight a single product benefit."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women-Studio-Sports",
+      "campaign": "Women-Studio-Sports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women-Studio-Sports**. CTR=0.0089. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women-Studio-Sports**. High impressions (144211) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_WomenCotton Classics",
+      "campaign": "WomenCotton Classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **WomenCotton Classics**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **WomenCotton Classics**. High impressions (83855) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women_-it_&_Lift",
+      "campaign": "Women_-it_&_Lift",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.66) for **Women_-it_&_Lift**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_Women_|-Studio_Sports",
+      "campaign": "Women_|-Studio_Sports",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **Women_|-Studio_Sports**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **Women_|-Studio_Sports**. High impressions (155276) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_en comfortmax launch",
+      "campaign": "en comfortmax launch",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.78) for **en comfortmax launch**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_me bold colors drop",
+      "campaign": "me bold colors drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **me bold colors drop**. CTR=0.0092. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **me bold colors drop**. High impressions (405401) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_men bld colors drop",
+      "campaign": "men bld colors drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **men bld colors drop**. CTR=0.0087. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **men bld colors drop**. High impressions (150277) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_men bold colors drop",
+      "campaign": "men bold colors drop",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **men bold colors drop**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **men bold colors drop**. High impressions (15676184) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_men sig ature soft",
+      "campaign": "men sig ature soft",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.24) for **men sig ature soft**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_omen | Studio Sports",
+      "campaign": "omen | Studio Sports",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **omen | Studio Sports**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_w men cotton classics",
+      "campaign": "w men cotton classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **w men cotton classics**. CTR=0.0088. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **w men cotton classics**. High impressions (48688) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.87) for **w men cotton classics**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_w-men cotton classics",
+      "campaign": "w-men cotton classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **w-men cotton classics**. CTR=0.0094. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **w-men cotton classics**. High impressions (494553) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_wo-en seamless everyday",
+      "campaign": "wo-en seamless everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **wo-en seamless everyday**. CTR=0.0097. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **wo-en seamless everyday**. High impressions (352047) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women  Summ r  Invisible",
+      "campaign": "women  Summ r  Invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women  Summ r  Invisible**. CTR=0.0086. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women  Summ r  Invisible**. High impressions (176180) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women  Summer  Invi ible",
+      "campaign": "women  Summer  Invi ible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women  Summer  Invi ible**. CTR=0.0094. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women  Summer  Invi ible**. High impressions (352330) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women  Summer  Invisib e",
+      "campaign": "women  Summer  Invisib e",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women  Summer  Invisib e**. CTR=0.0100. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women  Summer  Invisib e**. High impressions (388737) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Su mer Invisible",
+      "campaign": "women Su mer Invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women Su mer Invisible**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women Su mer Invisible**. High impressions (449572) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer In isible",
+      "campaign": "women Summer In isible",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.33) for **women Summer In isible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer In-isible",
+      "campaign": "women Summer In-isible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women Summer In-isible**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women Summer In-isible**. High impressions (294900) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer Inv-sible",
+      "campaign": "women Summer Inv-sible",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.00) for **women Summer Inv-sible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer Invi-ible",
+      "campaign": "women Summer Invi-ible",
+      "issues": "ok",
+      "creative_recommendations": [
+        "ROAS is weak (0.66) for **women Summer Invi-ible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer Invisble",
+      "campaign": "women Summer Invisble",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women Summer Invisble**. CTR=0.0089. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women Summer Invisble**. High impressions (105538) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women Summer Invisi-le",
+      "campaign": "women Summer Invisi-le",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women Summer Invisi-le**. CTR=0.0089. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women Summer Invisi-le**. High impressions (478776) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women c-tton classics",
+      "campaign": "women c-tton classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women c-tton classics**. CTR=0.0083. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women c-tton classics**. High impressions (112581) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women cott n classics",
+      "campaign": "women cott n classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women cott n classics**. CTR=0.0093. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women cott n classics**. High impressions (311417) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women cotton classics",
+      "campaign": "women cotton classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women cotton classics**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women cotton classics**. High impressions (14458086) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women fit & li t",
+      "campaign": "women fit & li t",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women fit & li t**. CTR=0.0078. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women fit & li t**. High impressions (258145) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women s amless everyday",
+      "campaign": "women s amless everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women s amless everyday**. CTR=0.0098. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women s amless everyday**. High impressions (296400) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women s-mmer invisible",
+      "campaign": "women s-mmer invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women s-mmer invisible**. CTR=0.0085. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women s-mmer invisible**. High impressions (103973) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women seam-ess everyday",
+      "campaign": "women seam-ess everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women seam-ess everyday**. CTR=0.0092. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women seam-ess everyday**. High impressions (257800) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women seamess everyday",
+      "campaign": "women seamess everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women seamess everyday**. CTR=0.0077. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women seamess everyday**. High impressions (84675) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women seamless everday",
+      "campaign": "women seamless everday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women seamless everday**. CTR=0.0094. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women seamless everday**. High impressions (267204) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women seamless everyday",
+      "campaign": "women seamless everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women seamless everyday**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women seamless everyday**. High impressions (13755475) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women seamless-everyday",
+      "campaign": "women seamless-everyday",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women seamless-everyday**. CTR=0.0089. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women seamless-everyday**. High impressions (338861) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women su-mer invisible",
+      "campaign": "women su-mer invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women su-mer invisible**. CTR=0.0057. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women su-mer invisible**. High impressions (287625) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.00) for **women su-mer invisible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women summe- invisible",
+      "campaign": "women summe- invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women summe- invisible**. CTR=0.0088. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women summe- invisible**. High impressions (189138) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women summer in isible",
+      "campaign": "women summer in isible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women summer in isible**. CTR=0.0094. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women summer in isible**. High impressions (127198) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women | studio spo ts",
+      "campaign": "women | studio spo ts",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women | studio spo ts**. CTR=0.0062. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women | studio spo ts**. High impressions (190126) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.00) for **women | studio spo ts**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women_Summe _Invisible",
+      "campaign": "women_Summe _Invisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women_Summe _Invisible**. CTR=0.0077. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women_Summe _Invisible**. High impressions (411098) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women_Summer_Inisible",
+      "campaign": "women_Summer_Inisible",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women_Summer_Inisible**. CTR=0.0095. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women_Summer_Inisible**. High impressions (32574) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.53) for **women_Summer_Inisible**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_women_Summer_Invisi-le",
+      "campaign": "women_Summer_Invisi-le",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **women_Summer_Invisi-le**. CTR=0.0086. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **women_Summer_Invisi-le**. High impressions (40462) but weak CTR suggests creative fatigue.",
+        "ROAS is weak (0.76) for **women_Summer_Invisi-le**. Try value-focused creatives \u2014 price reveal, limited time drop style, or bundle messaging."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "hyp_womn cotton classics",
+      "campaign": "womn cotton classics",
+      "issues": "low_ctr",
+      "creative_recommendations": [
+        "Improve initial hook for **womn cotton classics**. CTR=0.0079. Use bolder product visuals, clearer contrast background, and a tighter 1-line benefit message.",
+        "Test a short motion-first variant for **womn cotton classics**. High impressions (237466) but weak CTR suggests creative fatigue."
+      ],
+      "confidence": 0.8
+    }
+  ]
+}

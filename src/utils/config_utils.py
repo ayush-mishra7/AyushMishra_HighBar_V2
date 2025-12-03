@@ -1,25 +1,22 @@
 import yaml
 from pathlib import Path
-import os
 
-def load_config() -> dict:
-    cwd = Path.cwd()
+def load_config():
     candidates = [
-        cwd / "config.yaml",
-        cwd / "config" / "config.yaml",
-        Path(__file__).resolve().parents[2] / "config" / "config.yaml",
+        Path("config.yaml"),
+        Path("config/config.yaml"),
+        Path("src/config.yaml"),
+        Path("config/config.yml"),
     ]
-    # Allow explicit override via env var
-    env_path = os.getenv("KASP_CONFIG_PATH")
-    if env_path:
-        candidates.insert(0, Path(env_path))
-
     for p in candidates:
-        try:
-            if p.exists():
-                with open(p, "r", encoding="utf-8") as fh:
-                    cfg = yaml.safe_load(fh) or {}
-                    return cfg
-        except Exception:
-            continue
-    return {}
+        if p.exists():
+            try:
+                return yaml.safe_load(p.read_text()) or {}
+            except Exception:
+                continue
+    return {
+        "data": {"path": "data/synthetic_fb_ads_undergarments.csv"},
+        "logging": {"log_dir": "logs", "jsonl_file": "events.log.jsonl"},
+        "analysis": {"low_ctr_threshold": 0.01, "min_impressions": 1000, "roas_threshold": 1.0, "min_clicks": 10},
+        "reports": {"output_dir": "reports", "insights_file": "insights.json", "creatives_file": "creatives.json", "report_file": "report.md"},
+    }

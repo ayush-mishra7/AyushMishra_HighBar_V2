@@ -1,7 +1,7 @@
 import pandas as pd
+import os
+
 from src.utils.logging_utils import start_span, end_span, log_event
-from src.utils.data_utils import load_dataset
-from src.schema.validator import SchemaValidator
 from src.agents.planner import PlannerAgent
 from src.agents.insight_agent import InsightAgent
 from src.agents.evaluator_agent import EvaluatorAgent
@@ -11,48 +11,44 @@ from src.agents.report_agent import ReportAgent
 
 def main():
     root = start_span("pipeline.start", agent="Pipeline")
+    trace_id = root["trace_id"]
 
-    try:
-        planner = PlannerAgent()
-        plan = planner.run(trace_id=root["trace_id"])
+    # 1. PLAN
+    planner = PlannerAgent()
+    steps = planner.run(trace_id=trace_id, parent_span=root["span_id"])
 
-        if "load_dataset" in plan:
-            span = start_span("dataset.load", trace_id=root["trace_id"])
-            df = load_dataset()
-            end_span(span)
+    # 2. LOAD DATA
+    data_span = start_span("data.load", trace_id=trace_id, parent_span_id=root["span_id"], agent="Pipeline")
 
-        validator = SchemaValidator()
-        validator.validate_or_raise(df)
+    df_path = os.path.join("data", "synthetic_fb_ads_undergarments.csv")
+    df = pd.read_csv(df_path)
+    log_event("data.load.success", {"rows": len(df)}, trace_id=trace_id, parent_span_id=data_span["span_id"])
+    end_span(data_span)
 
-        if "generate_insights" in plan:
-            agent = InsightAgent()
-            span = start_span("insight.generate", trace_id=root["trace_id"])
-            insights = agent.generate(df)
-            end_span(span)
+    # 3. VALIDATE SCHEMA
+    schema_span = start_span("schema.validate", trace_id=trace_id, parent_span_id=root["span_id"])
+    from src.schema.validator import validate_schema
+    validate_schema(df)
+    end_span(schema_span)
 
-        if "evaluate_insights" in plan:
-            agent = EvaluatorAgent()
-            span = start_span("insights.evaluate", trace_id=root["trace_id"])
-            evaluated = agent.evaluate(df, insights)
-            end_span(span)
+    # 4. GENERATE INSIGHTS
+    insights_agent = InsightAgent()
+    insights = insights_agent.run(df, trace_id=trace_id, parent_span=root["span_id"])
 
-        if "generate_creatives" in plan:
-            agent = CreativeAgent()
-            span = start_span("creatives.generate", trace_id=root["trace_id"])
-            creatives = agent.generate(evaluated)
-            end_span(span)
+    # 5. EVALUATE INSIGHTS
+    evaluator = EvaluatorAgent()
+    evaluated = evaluator.run(df, insights, trace_id=trace_id, parent_span=root["span_id"])
 
-        if "generate_report" in plan:
-            agent = ReportAgent()
-            span = start_span("report.generate", trace_id=root["trace_id"])
-            agent.run(evaluated, creatives)
-            end_span(span)
+    # 6. GENERATE CREATIVES
+    creative_agent = CreativeAgent()
+    creatives = creative_agent.run(evaluated, trace_id=trace_id, parent_span=root["span_id"])
 
-    except Exception as e:
-        log_event("pipeline.error", {"error": str(e)}, trace_id=root["trace_id"], agent="Pipeline")
+    # 7. GENERATE REPORT
+    report_agent = ReportAgent()
+    report = report_agent.run(evaluated, creatives, trace_id=trace_id, parent_span=root["span_id"])
 
-    finally:
-        end_span(root)
+    # CLOSE PIPELINE
+    end_span(root)
 
 
 if __name__ == "__main__":

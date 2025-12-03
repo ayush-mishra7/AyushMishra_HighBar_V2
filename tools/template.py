@@ -1,39 +1,55 @@
 import os
 from pathlib import Path
 
-ROOT = Path.cwd()
-
-structure = [
-    "src",
-    "src/agents",
-    "src/utils",
-    "src/config",
-    "data",
-    "reports",
-    "tests",
-    ".github/workflows",
-    "logs",
-]
-
-placeholders = {
-    "src/__init__.py": "",
-    "src/run.py": "print('Replace with real run.py')\n",
-    "src/config/config.yaml": "data:\n  path: data/synthetic_fb_ads_undergarments.csv\nlogging:\n  log_dir: logs\nanalysis:\n  low_ctr_threshold: 0.01\n  min_impressions: 1000\n  roas_threshold: 1.0\n  min_clicks: 10\n",
-    "README.md": "# Project\n\nReplace with README",
-    "requirements.txt": "pandas\npyyaml\npytest\nflake8\n",
-    "tests/.gitkeep": "",
+TEMPLATE = {
+    "config": ["config/config.yaml"],
+    "data": ["data"],
+    "reports": ["reports"],
+    "logs": ["logs"],
+    "src": [
+        "src",
+        "src/agents",
+        "src/utils",
+        "src/tools"
+    ],
+    "tests": ["tests"]
 }
 
-def create():
-    for p in structure:
-        d = ROOT / p
-        d.mkdir(parents=True, exist_ok=True)
-    for path, content in placeholders.items():
-        p = ROOT / path
-        if not p.exists():
-            p.parent.mkdir(parents=True, exist_ok=True)
-            p.write_text(content, encoding="utf-8")
-    print("Template created. Edit files as needed.")
+FILES = {
+    "config/config.yaml": """data:
+  path: data/synthetic_fb_ads_undergarments.csv
+
+logging:
+  log_dir: logs
+  jsonl_file: events.log.jsonl
+
+analysis:
+  low_ctr_threshold: 0.01
+  min_impressions: 1000
+  roas_threshold: 1.0
+  min_clicks: 10
+
+reports:
+  output_dir: reports
+  insights_file: insights.json
+  creatives_file: creatives.json
+  report_file: report.md
+""",
+    "README.md": "# Project\n\nBootstrap created by tools/template.py\n"
+}
+
+def create_structure(base: str = "."):
+    basep = Path(base)
+    for k, dirs in TEMPLATE.items():
+        for d in dirs:
+            path = basep / d
+            path.mkdir(parents=True, exist_ok=True)
+    for p, content in FILES.items():
+        fp = basep / p
+        fp.parent.mkdir(parents=True, exist_ok=True)
+        if not fp.exists():
+            fp.write_text(content)
+    print("Template created. Edit config/config.yaml and add data file.")
 
 if __name__ == "__main__":
-    create()
+    create_structure()
